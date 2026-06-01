@@ -1,0 +1,797 @@
+﻿Employee_Key,Employee_ID,Name,Position,Hire_Date
+1,129,Alexander Brown,Store Manager,2020-03-30
+2,574,Alexander Davis,Cashier,2020-09-22
+3,219,Alexander Davis,Cashier,2022-04-21
+4,348,Alexander Davis,Sales Associate,2024-11-15
+5,638,Alexander Davis,Stock Associate,2023-01-31
+6,4,Alexander Davis,Cashier,2020-08-17
+7,800,Alexander Davis,Customer Service Rep,2023-09-24
+8,364,Alexander Garcia,Supervisor,2024-06-16
+9,536,Alexander Garcia,Customer Service Rep,2024-07-11
+10,666,Alexander Garcia,Store Manager,2020-12-11
+11,397,Alexander Garcia,Store Manager,2020-08-04
+12,196,Alexander Garcia,Cashier,2022-06-13
+13,737,Alexander Johnson,Customer Service Rep,2021-07-06
+14,489,Alexander Johnson,Cashier,2020-05-12
+15,376,Alexander Johnson,Stock Associate,2021-08-27
+16,223,Alexander Jones,Cashier,2023-08-06
+17,744,Alexander Jones,Supervisor,2021-10-27
+18,291,Alexander Jones,Customer Service Rep,2024-05-22
+19,145,Alexander Jones,Sales Associate,2023-05-28
+20,653,Alexander Martinez,Cashier,2023-12-06
+21,339,Alexander Martinez,Stock Associate,2024-05-01
+22,789,Alexander Martinez,Sales Associate,2021-10-18
+23,478,Alexander Miller,Customer Service Rep,2020-09-24
+24,25,Alexander Miller,Customer Service Rep,2023-04-10
+25,383,Alexander Miller,Sales Associate,2020-10-11
+26,350,Alexander Miller,Sales Associate,2023-02-04
+27,301,Alexander Miller,Supervisor,2024-05-02
+28,799,Alexander Rodriguez,Customer Service Rep,2023-02-17
+29,10,Alexander Smith,Cashier,2023-12-20
+30,643,Alexander Smith,Customer Service Rep,2024-12-18
+31,182,Alexander Smith,Sales Associate,2021-07-13
+32,166,Alexander Smith,Sales Associate,2021-06-27
+33,280,Alexander Smith,Cashier,2021-07-30
+34,695,Alexander Williams,Store Manager,2025-01-20
+35,77,Alexander Williams,Supervisor,2020-08-09
+36,268,Alexander Williams,Customer Service Rep,2023-07-02
+37,692,Alexander Williams,Customer Service Rep,2023-11-05
+38,235,Alexander Williams,Customer Service Rep,2023-09-30
+39,5,Amelia Brown,Stock Associate,2020-06-10
+40,345,Amelia Brown,Supervisor,2023-08-17
+41,467,Amelia Brown,Store Manager,2024-01-15
+42,434,Amelia Brown,Store Manager,2021-07-03
+43,17,Amelia Davis,Stock Associate,2020-07-19
+44,62,Amelia Davis,Cashier,2024-01-01
+45,256,Amelia Davis,Sales Associate,2020-09-08
+46,159,Amelia Davis,Sales Associate,2024-10-17
+47,630,Amelia Garcia,Store Manager,2020-07-28
+48,180,Amelia Garcia,Stock Associate,2022-01-22
+49,277,Amelia Garcia,Stock Associate,2024-01-16
+50,353,Amelia Garcia,Store Manager,2020-04-03
+51,38,Amelia Johnson,Supervisor,2024-05-16
+52,723,Amelia Johnson,Store Manager,2023-10-11
+53,275,Amelia Johnson,Supervisor,2022-07-09
+54,191,Amelia Jones,Supervisor,2021-11-02
+55,299,Amelia Jones,Customer Service Rep,2021-02-28
+56,317,Amelia Jones,Supervisor,2021-09-10
+57,593,Amelia Jones,Supervisor,2022-08-08
+58,712,Amelia Martinez,Stock Associate,2022-11-22
+59,238,Amelia Martinez,Customer Service Rep,2024-03-29
+60,471,Amelia Martinez,Supervisor,2024-02-23
+61,273,Amelia Martinez,Sales Associate,2021-10-02
+62,270,Amelia Martinez,Customer Service Rep,2020-03-03
+63,570,Amelia Miller,Stock Associate,2021-09-03
+64,446,Amelia Miller,Stock Associate,2023-11-07
+65,509,Amelia Miller,Supervisor,2024-02-12
+66,667,Amelia Miller,Supervisor,2024-09-16
+67,13,Amelia Miller,Sales Associate,2020-07-12
+68,698,Amelia Miller,Supervisor,2023-04-21
+69,561,Amelia Rodriguez,Sales Associate,2025-01-16
+70,704,Amelia Rodriguez,Stock Associate,2022-09-15
+71,790,Amelia Rodriguez,Sales Associate,2023-06-09
+72,779,Amelia Smith,Stock Associate,2024-05-23
+73,793,Amelia Smith,Stock Associate,2023-08-07
+74,338,Amelia Smith,Sales Associate,2022-10-28
+75,198,Amelia Williams,Cashier,2022-11-11
+76,336,Benjamin Brown,Sales Associate,2020-05-17
+77,648,Benjamin Brown,Stock Associate,2024-08-24
+78,423,Benjamin Brown,Supervisor,2024-11-26
+79,753,Benjamin Brown,Sales Associate,2024-02-19
+80,185,Benjamin Davis,Supervisor,2020-11-18
+81,733,Benjamin Garcia,Supervisor,2023-06-08
+82,378,Benjamin Garcia,Cashier,2020-07-06
+83,681,Benjamin Garcia,Stock Associate,2023-08-31
+84,697,Benjamin Garcia,Cashier,2023-11-29
+85,708,Benjamin Johnson,Sales Associate,2022-08-23
+86,440,Benjamin Johnson,Cashier,2021-03-13
+87,167,Benjamin Johnson,Store Manager,2022-07-07
+88,132,Benjamin Johnson,Store Manager,2024-05-19
+89,394,Benjamin Johnson,Store Manager,2023-05-09
+90,640,Benjamin Johnson,Supervisor,2021-03-29
+91,699,Benjamin Jones,Store Manager,2024-04-17
+92,24,Benjamin Martinez,Sales Associate,2023-03-31
+93,521,Benjamin Martinez,Store Manager,2020-11-17
+94,125,Benjamin Martinez,Stock Associate,2024-03-08
+95,387,Benjamin Martinez,Store Manager,2024-07-04
+96,66,Benjamin Martinez,Customer Service Rep,2020-02-10
+97,710,Benjamin Martinez,Customer Service Rep,2022-12-03
+98,178,Benjamin Miller,Customer Service Rep,2020-04-15
+99,331,Benjamin Miller,Store Manager,2024-11-15
+100,632,Benjamin Miller,Customer Service Rep,2021-10-02
+101,418,Benjamin Miller,Customer Service Rep,2022-10-04
+102,533,Benjamin Rodriguez,Stock Associate,2025-01-18
+103,583,Benjamin Rodriguez,Stock Associate,2020-04-09
+104,624,Benjamin Rodriguez,Supervisor,2023-12-28
+105,622,Benjamin Rodriguez,Store Manager,2022-05-07
+106,537,Benjamin Rodriguez,Supervisor,2024-10-20
+107,197,Benjamin Rodriguez,Cashier,2022-03-21
+108,486,Benjamin Rodriguez,Customer Service Rep,2023-01-31
+109,380,Benjamin Rodriguez,Stock Associate,2022-11-15
+110,37,Benjamin Smith,Supervisor,2022-01-16
+111,628,Benjamin Smith,Customer Service Rep,2020-04-25
+112,309,Benjamin Smith,Store Manager,2024-06-01
+113,328,Benjamin Smith,Customer Service Rep,2021-03-22
+114,215,Benjamin Smith,Supervisor,2021-09-24
+115,295,Benjamin Smith,Customer Service Rep,2020-10-09
+116,19,Benjamin Williams,Store Manager,2020-01-05
+117,741,Benjamin Williams,Cashier,2021-03-17
+118,406,Benjamin Williams,Customer Service Rep,2023-09-08
+119,706,Charlotte Brown,Store Manager,2024-05-22
+120,501,Charlotte Brown,Stock Associate,2021-10-13
+121,492,Charlotte Brown,Sales Associate,2021-07-17
+122,343,Charlotte Brown,Sales Associate,2021-09-07
+123,725,Charlotte Davis,Customer Service Rep,2021-02-12
+124,516,Charlotte Davis,Store Manager,2021-12-20
+125,245,Charlotte Davis,Supervisor,2024-06-20
+126,524,Charlotte Garcia,Cashier,2022-05-25
+127,490,Charlotte Garcia,Cashier,2020-03-28
+128,657,Charlotte Garcia,Cashier,2023-02-07
+129,727,Charlotte Johnson,Cashier,2023-10-16
+130,363,Charlotte Johnson,Stock Associate,2020-10-31
+131,438,Charlotte Johnson,Customer Service Rep,2022-01-08
+132,616,Charlotte Johnson,Supervisor,2023-06-05
+133,164,Charlotte Jones,Sales Associate,2020-09-23
+134,54,Charlotte Jones,Stock Associate,2023-09-21
+135,21,Charlotte Jones,Sales Associate,2020-04-29
+136,670,Charlotte Jones,Customer Service Rep,2024-12-20
+137,629,Charlotte Jones,Sales Associate,2024-09-15
+138,313,Charlotte Jones,Customer Service Rep,2021-01-16
+139,312,Charlotte Jones,Sales Associate,2024-07-14
+140,493,Charlotte Martinez,Stock Associate,2023-06-17
+141,304,Charlotte Martinez,Customer Service Rep,2023-04-16
+142,756,Charlotte Martinez,Stock Associate,2022-07-24
+143,267,Charlotte Martinez,Stock Associate,2020-07-10
+144,689,Charlotte Martinez,Stock Associate,2023-07-29
+145,321,Charlotte Martinez,Supervisor,2022-05-01
+146,41,Charlotte Miller,Cashier,2024-10-24
+147,578,Charlotte Miller,Stock Associate,2023-04-20
+148,51,Charlotte Miller,Stock Associate,2024-09-03
+149,673,Charlotte Miller,Sales Associate,2024-12-30
+150,414,Charlotte Miller,Stock Associate,2020-10-09
+151,358,Charlotte Rodriguez,Cashier,2024-09-14
+152,592,Charlotte Rodriguez,Cashier,2024-01-21
+153,754,Charlotte Rodriguez,Sales Associate,2020-02-28
+154,35,Charlotte Rodriguez,Customer Service Rep,2022-05-25
+155,674,Charlotte Rodriguez,Stock Associate,2020-07-04
+156,165,Charlotte Smith,Sales Associate,2020-01-31
+157,293,Charlotte Smith,Stock Associate,2023-12-05
+158,45,Charlotte Smith,Cashier,2023-05-06
+159,95,Charlotte Smith,Customer Service Rep,2022-12-29
+160,503,Charlotte Smith,Cashier,2020-04-25
+161,548,Charlotte Williams,Sales Associate,2024-11-27
+162,656,Charlotte Williams,Customer Service Rep,2022-03-11
+163,572,Charlotte Williams,Cashier,2022-09-25
+164,82,Charlotte Williams,Customer Service Rep,2022-12-04
+165,554,Elijah Brown,Supervisor,2023-08-27
+166,549,Elijah Davis,Cashier,2022-01-08
+167,551,Elijah Davis,Stock Associate,2022-07-02
+168,614,Elijah Garcia,Supervisor,2024-08-26
+169,9,Elijah Garcia,Cashier,2023-04-19
+170,707,Elijah Garcia,Stock Associate,2023-06-11
+171,226,Elijah Garcia,Cashier,2022-04-29
+172,42,Elijah Garcia,Supervisor,2024-08-07
+173,663,Elijah Garcia,Supervisor,2020-09-19
+174,750,Elijah Johnson,Sales Associate,2020-12-07
+175,443,Elijah Johnson,Customer Service Rep,2024-07-08
+176,408,Elijah Jones,Customer Service Rep,2024-07-14
+177,29,Elijah Jones,Sales Associate,2022-06-16
+178,75,Elijah Martinez,Sales Associate,2021-05-03
+179,625,Elijah Martinez,Customer Service Rep,2021-08-18
+180,556,Elijah Martinez,Supervisor,2023-12-30
+181,425,Elijah Martinez,Customer Service Rep,2022-05-26
+182,190,Elijah Martinez,Cashier,2020-01-16
+183,691,Elijah Martinez,Sales Associate,2024-06-15
+184,469,Elijah Miller,Cashier,2024-12-01
+185,475,Elijah Miller,Store Manager,2020-05-02
+186,120,Elijah Rodriguez,Sales Associate,2021-08-12
+187,465,Elijah Smith,Cashier,2021-05-15
+188,11,Elijah Smith,Supervisor,2020-05-25
+189,426,Elijah Smith,Stock Associate,2021-12-19
+190,449,Elijah Smith,Customer Service Rep,2024-11-28
+191,769,Elijah Williams,Cashier,2022-10-07
+192,200,Elijah Williams,Supervisor,2021-02-08
+193,146,Elijah Williams,Customer Service Rep,2020-07-17
+194,484,Elijah Williams,Cashier,2023-12-27
+195,64,Elijah Williams,Customer Service Rep,2021-03-14
+196,476,Emma Brown,Stock Associate,2022-04-25
+197,156,Emma Brown,Stock Associate,2020-10-04
+198,482,Emma Brown,Store Manager,2021-09-23
+199,233,Emma Davis,Stock Associate,2023-01-02
+200,76,Emma Davis,Customer Service Rep,2021-06-08
+201,690,Emma Davis,Stock Associate,2022-08-23
+202,153,Emma Davis,Cashier,2023-06-22
+203,263,Emma Davis,Customer Service Rep,2022-11-25
+204,170,Emma Davis,Cashier,2025-01-15
+205,519,Emma Garcia,Sales Associate,2024-12-23
+206,332,Emma Garcia,Cashier,2020-12-31
+207,742,Emma Garcia,Supervisor,2022-01-09
+208,732,Emma Garcia,Customer Service Rep,2020-01-18
+209,366,Emma Johnson,Store Manager,2022-02-15
+210,721,Emma Johnson,Store Manager,2023-07-21
+211,468,Emma Johnson,Stock Associate,2023-10-10
+212,246,Emma Johnson,Store Manager,2023-05-18
+213,131,Emma Johnson,Stock Associate,2022-07-24
+214,709,Emma Jones,Sales Associate,2022-01-29
+215,107,Emma Jones,Customer Service Rep,2023-04-22
+216,55,Emma Jones,Sales Associate,2024-07-09
+217,680,Emma Jones,Stock Associate,2023-01-19
+218,258,Emma Jones,Sales Associate,2023-12-28
+219,644,Emma Jones,Stock Associate,2024-01-22
+220,97,Emma Martinez,Supervisor,2022-08-19
+221,121,Emma Martinez,Sales Associate,2023-12-24
+222,205,Emma Martinez,Stock Associate,2022-11-04
+223,391,Emma Martinez,Stock Associate,2021-01-03
+224,189,Emma Martinez,Store Manager,2022-12-15
+225,459,Emma Martinez,Stock Associate,2020-04-22
+226,517,Emma Martinez,Customer Service Rep,2024-04-01
+227,158,Emma Martinez,Store Manager,2021-07-26
+228,236,Emma Miller,Store Manager,2020-03-30
+229,143,Emma Miller,Stock Associate,2022-01-05
+230,477,Emma Rodriguez,Sales Associate,2023-07-29
+231,49,Emma Rodriguez,Supervisor,2023-09-27
+232,595,Emma Smith,Cashier,2024-10-10
+233,184,Emma Smith,Cashier,2024-03-08
+234,771,Emma Smith,Supervisor,2024-05-07
+235,618,Emma Smith,Customer Service Rep,2024-09-11
+236,326,Emma Smith,Store Manager,2020-09-27
+237,272,Emma Williams,Store Manager,2022-05-01
+238,747,Emma Williams,Supervisor,2021-04-12
+239,483,Emma Williams,Customer Service Rep,2021-09-15
+240,6,Emma Williams,Customer Service Rep,2022-08-31
+241,108,Emma Williams,Supervisor,2024-08-19
+242,371,Emma Williams,Stock Associate,2021-05-07
+243,303,Evelyn Brown,Stock Associate,2021-07-09
+244,61,Evelyn Brown,Customer Service Rep,2021-07-21
+245,480,Evelyn Brown,Cashier,2021-02-19
+246,307,Evelyn Brown,Supervisor,2021-10-19
+247,110,Evelyn Davis,Customer Service Rep,2021-09-14
+248,88,Evelyn Davis,Customer Service Rep,2023-12-28
+249,53,Evelyn Davis,Customer Service Rep,2021-03-13
+250,67,Evelyn Garcia,Supervisor,2024-03-23
+251,417,Evelyn Garcia,Cashier,2022-09-19
+252,357,Evelyn Garcia,Sales Associate,2020-10-13
+253,221,Evelyn Garcia,Customer Service Rep,2023-03-14
+254,375,Evelyn Garcia,Stock Associate,2022-02-07
+255,665,Evelyn Garcia,Stock Associate,2023-09-12
+256,230,Evelyn Johnson,Cashier,2021-06-08
+257,419,Evelyn Johnson,Stock Associate,2020-03-04
+258,527,Evelyn Johnson,Customer Service Rep,2023-01-19
+259,609,Evelyn Johnson,Store Manager,2024-03-06
+260,514,Evelyn Jones,Sales Associate,2021-05-26
+261,393,Evelyn Jones,Sales Associate,2021-06-01
+262,203,Evelyn Jones,Stock Associate,2020-04-25
+263,379,Evelyn Jones,Cashier,2020-09-28
+264,529,Evelyn Jones,Sales Associate,2024-09-10
+265,430,Evelyn Martinez,Customer Service Rep,2021-07-04
+266,437,Evelyn Miller,Sales Associate,2023-11-11
+267,745,Evelyn Miller,Stock Associate,2021-08-09
+268,20,Evelyn Miller,Customer Service Rep,2024-02-05
+269,262,Evelyn Miller,Stock Associate,2020-05-31
+270,683,Evelyn Rodriguez,Sales Associate,2022-06-19
+271,788,Evelyn Rodriguez,Store Manager,2024-02-11
+272,731,Evelyn Rodriguez,Supervisor,2022-03-17
+273,327,Evelyn Rodriguez,Store Manager,2023-10-09
+274,300,Evelyn Rodriguez,Customer Service Rep,2021-07-14
+275,494,Evelyn Rodriguez,Store Manager,2020-05-04
+276,60,Evelyn Rodriguez,Store Manager,2025-01-11
+277,361,Evelyn Smith,Stock Associate,2023-02-03
+278,169,Evelyn Smith,Store Manager,2024-10-01
+279,783,Evelyn Smith,Customer Service Rep,2022-02-12
+280,306,Evelyn Williams,Cashier,2023-02-01
+281,248,Evelyn Williams,Customer Service Rep,2022-06-28
+282,675,Harper Brown,Stock Associate,2023-11-02
+283,333,Harper Brown,Cashier,2024-03-28
+284,322,Harper Brown,Customer Service Rep,2024-03-25
+285,227,Harper Brown,Store Manager,2020-06-16
+286,785,Harper Brown,Stock Associate,2021-01-17
+287,760,Harper Davis,Store Manager,2021-09-05
+288,68,Harper Davis,Sales Associate,2021-07-12
+289,719,Harper Davis,Store Manager,2023-02-27
+290,111,Harper Davis,Cashier,2023-05-09
+291,432,Harper Garcia,Store Manager,2022-09-26
+292,757,Harper Garcia,Store Manager,2023-01-10
+293,91,Harper Garcia,Customer Service Rep,2022-07-18
+294,214,Harper Garcia,Sales Associate,2023-10-04
+295,613,Harper Garcia,Customer Service Rep,2022-07-15
+296,642,Harper Johnson,Customer Service Rep,2021-12-09
+297,797,Harper Johnson,Supervisor,2020-06-08
+298,752,Harper Johnson,Supervisor,2023-06-19
+299,141,Harper Johnson,Store Manager,2021-12-08
+300,151,Harper Johnson,Store Manager,2020-01-29
+301,615,Harper Johnson,Cashier,2025-01-10
+302,325,Harper Johnson,Customer Service Rep,2021-02-24
+303,662,Harper Jones,Customer Service Rep,2020-05-17
+304,654,Harper Jones,Customer Service Rep,2021-09-09
+305,559,Harper Jones,Customer Service Rep,2020-08-09
+306,705,Harper Jones,Supervisor,2023-03-29
+307,33,Harper Jones,Cashier,2020-07-08
+308,261,Harper Martinez,Cashier,2020-05-14
+309,621,Harper Martinez,Sales Associate,2024-02-05
+310,532,Harper Martinez,Sales Associate,2022-09-02
+311,289,Harper Martinez,Supervisor,2022-08-30
+312,627,Harper Miller,Cashier,2022-12-06
+313,372,Harper Miller,Customer Service Rep,2020-10-13
+314,455,Harper Miller,Customer Service Rep,2022-04-03
+315,762,Harper Miller,Sales Associate,2020-11-30
+316,118,Harper Rodriguez,Store Manager,2022-04-26
+317,87,Harper Rodriguez,Sales Associate,2020-06-24
+318,122,Harper Rodriguez,Store Manager,2020-07-09
+319,224,Harper Rodriguez,Cashier,2021-08-06
+320,395,Harper Rodriguez,Cashier,2024-06-07
+321,286,Harper Smith,Cashier,2020-10-07
+322,794,Harper Smith,Supervisor,2021-03-28
+323,428,Harper Williams,Store Manager,2020-05-01
+324,669,Harper Williams,Customer Service Rep,2023-05-27
+325,3,Harper Williams,Supervisor,2024-04-10
+326,149,Harper Williams,Supervisor,2024-08-15
+327,565,Harper Williams,Customer Service Rep,2024-11-30
+328,285,Harper Williams,Sales Associate,2023-05-18
+329,287,Harper Williams,Stock Associate,2025-01-03
+330,93,Henry Brown,Sales Associate,2024-02-21
+331,734,Henry Brown,Supervisor,2022-08-23
+332,631,Henry Brown,Stock Associate,2024-05-25
+333,728,Henry Davis,Supervisor,2023-06-25
+334,416,Henry Davis,Supervisor,2020-10-14
+335,724,Henry Davis,Supervisor,2021-12-25
+336,296,Henry Davis,Stock Associate,2022-02-10
+337,102,Henry Davis,Store Manager,2021-08-31
+338,452,Henry Garcia,Supervisor,2020-09-27
+339,405,Henry Garcia,Stock Associate,2022-05-23
+340,409,Henry Garcia,Supervisor,2021-02-07
+341,199,Henry Garcia,Supervisor,2024-01-29
+342,576,Henry Garcia,Cashier,2024-12-31
+343,402,Henry Garcia,Store Manager,2020-07-18
+344,647,Henry Johnson,Sales Associate,2023-10-04
+345,715,Henry Johnson,Cashier,2023-01-30
+346,696,Henry Johnson,Store Manager,2023-09-12
+347,193,Henry Johnson,Store Manager,2024-10-30
+348,231,Henry Johnson,Supervisor,2021-05-01
+349,776,Henry Jones,Store Manager,2023-07-31
+350,265,Henry Jones,Sales Associate,2020-11-27
+351,764,Henry Jones,Customer Service Rep,2024-03-01
+352,177,Henry Martinez,Stock Associate,2023-02-24
+353,119,Henry Martinez,Store Manager,2023-07-04
+354,101,Henry Martinez,Stock Associate,2024-06-07
+355,701,Henry Miller,Customer Service Rep,2021-02-24
+356,496,Henry Miller,Customer Service Rep,2022-01-05
+357,450,Henry Miller,Supervisor,2023-08-16
+358,457,Henry Miller,Stock Associate,2023-07-23
+359,620,Henry Rodriguez,Store Manager,2024-09-13
+360,718,Henry Rodriguez,Supervisor,2021-11-27
+361,607,Henry Rodriguez,Customer Service Rep,2022-02-14
+362,645,Henry Rodriguez,Stock Associate,2022-07-01
+363,323,Henry Rodriguez,Customer Service Rep,2022-01-10
+364,264,Henry Williams,Store Manager,2022-10-26
+365,16,Henry Williams,Store Manager,2021-01-10
+366,772,Henry Williams,Sales Associate,2025-01-08
+367,677,Isabella Brown,Store Manager,2021-04-19
+368,716,Isabella Brown,Stock Associate,2021-02-02
+369,150,Isabella Davis,Cashier,2020-10-15
+370,453,Isabella Davis,Cashier,2020-02-04
+371,735,Isabella Davis,Store Manager,2021-03-07
+372,253,Isabella Davis,Cashier,2023-03-21
+373,128,Isabella Davis,Supervisor,2024-11-15
+374,755,Isabella Davis,Stock Associate,2021-07-11
+375,352,Isabella Davis,Cashier,2024-07-02
+376,247,Isabella Johnson,Supervisor,2023-09-15
+377,513,Isabella Johnson,Customer Service Rep,2023-10-04
+378,597,Isabella Johnson,Store Manager,2022-03-30
+379,84,Isabella Johnson,Supervisor,2024-12-10
+380,403,Isabella Jones,Cashier,2024-07-17
+381,1,Isabella Jones,Store Manager,2020-11-19
+382,641,Isabella Jones,Sales Associate,2024-03-21
+383,568,Isabella Jones,Stock Associate,2021-08-25
+384,736,Isabella Jones,Store Manager,2021-01-03
+385,786,Isabella Jones,Stock Associate,2024-10-28
+386,179,Isabella Martinez,Stock Associate,2021-03-11
+387,435,Isabella Martinez,Store Manager,2024-06-02
+388,252,Isabella Martinez,Cashier,2023-05-24
+389,157,Isabella Martinez,Customer Service Rep,2024-01-28
+390,388,Isabella Martinez,Sales Associate,2021-09-07
+391,46,Isabella Martinez,Stock Associate,2020-08-24
+392,743,Isabella Miller,Cashier,2021-12-20
+393,652,Isabella Miller,Customer Service Rep,2020-08-30
+394,290,Isabella Miller,Stock Associate,2021-09-22
+395,545,Isabella Miller,Stock Associate,2023-08-15
+396,210,Isabella Miller,Store Manager,2024-05-05
+397,497,Isabella Miller,Supervisor,2021-01-03
+398,14,Isabella Miller,Store Manager,2024-11-04
+399,749,Isabella Miller,Sales Associate,2021-01-11
+400,174,Isabella Miller,Store Manager,2024-02-03
+401,346,Isabella Rodriguez,Customer Service Rep,2024-08-25
+402,508,Isabella Rodriguez,Customer Service Rep,2024-12-26
+403,44,Isabella Rodriguez,Supervisor,2020-02-26
+404,550,Isabella Rodriguez,Store Manager,2023-07-25
+405,134,Isabella Rodriguez,Cashier,2023-06-18
+406,186,Isabella Smith,Sales Associate,2020-11-18
+407,562,Isabella Smith,Customer Service Rep,2022-10-15
+408,98,Isabella Smith,Supervisor,2024-10-30
+409,678,Isabella Smith,Customer Service Rep,2021-02-27
+410,112,Isabella Smith,Cashier,2021-04-13
+411,237,Isabella Smith,Supervisor,2024-06-02
+412,612,Isabella Smith,Sales Associate,2024-09-25
+413,183,Isabella Williams,Sales Associate,2023-03-05
+414,778,Isabella Williams,Supervisor,2023-04-12
+415,702,Isabella Williams,Store Manager,2023-08-27
+416,461,Isabella Williams,Supervisor,2020-09-16
+417,466,Isabella Williams,Sales Associate,2024-10-22
+418,604,Isabella Williams,Stock Associate,2024-12-31
+419,500,James Brown,Stock Associate,2024-09-29
+420,726,James Brown,Sales Associate,2024-09-05
+421,318,James Brown,Cashier,2023-09-29
+422,7,James Brown,Stock Associate,2024-03-26
+423,458,James Brown,Cashier,2021-05-15
+424,12,James Brown,Stock Associate,2020-09-27
+425,784,James Davis,Customer Service Rep,2022-06-15
+426,526,James Davis,Cashier,2021-09-23
+427,566,James Davis,Sales Associate,2024-02-26
+428,204,James Davis,Cashier,2020-04-26
+429,646,James Garcia,Stock Associate,2020-06-17
+430,589,James Garcia,Customer Service Rep,2022-04-19
+431,659,James Garcia,Sales Associate,2022-04-25
+432,63,James Garcia,Stock Associate,2020-06-14
+433,137,James Garcia,Store Manager,2020-10-25
+434,623,James Garcia,Supervisor,2022-07-16
+435,714,James Garcia,Customer Service Rep,2022-03-20
+436,126,James Garcia,Stock Associate,2021-07-01
+437,27,James Garcia,Cashier,2020-01-20
+438,31,James Johnson,Customer Service Rep,2023-02-07
+439,588,James Johnson,Store Manager,2021-02-10
+440,135,James Johnson,Store Manager,2020-07-20
+441,456,James Jones,Cashier,2022-11-13
+442,700,James Jones,Sales Associate,2020-01-12
+443,320,James Martinez,Sales Associate,2021-03-24
+444,347,James Martinez,Stock Associate,2020-03-21
+445,553,James Miller,Cashier,2020-11-29
+446,47,James Miller,Cashier,2022-11-30
+447,148,James Miller,Sales Associate,2021-02-15
+448,78,James Miller,Customer Service Rep,2021-02-10
+449,651,James Miller,Store Manager,2023-07-14
+450,655,James Miller,Store Manager,2024-08-10
+451,217,James Rodriguez,Stock Associate,2024-09-06
+452,340,James Rodriguez,Sales Associate,2022-04-26
+453,2,James Rodriguez,Cashier,2024-11-17
+454,398,James Rodriguez,Customer Service Rep,2022-11-28
+455,422,James Rodriguez,Cashier,2024-04-05
+456,225,James Rodriguez,Sales Associate,2024-08-28
+457,410,James Rodriguez,Customer Service Rep,2021-10-03
+458,310,James Smith,Supervisor,2023-03-09
+459,241,James Smith,Sales Associate,2024-12-19
+460,243,James Smith,Customer Service Rep,2021-11-10
+461,147,James Smith,Stock Associate,2022-01-17
+462,113,James Williams,Store Manager,2022-11-28
+463,104,James Williams,Sales Associate,2020-12-21
+464,577,Liam Brown,Sales Associate,2023-11-21
+465,56,Liam Brown,Store Manager,2023-06-05
+466,305,Liam Brown,Cashier,2020-07-24
+467,633,Liam Brown,Stock Associate,2024-11-14
+468,454,Liam Brown,Cashier,2020-05-03
+469,162,Liam Brown,Sales Associate,2024-05-30
+470,713,Liam Brown,Customer Service Rep,2020-01-01
+471,590,Liam Brown,Customer Service Rep,2022-09-11
+472,436,Liam Davis,Cashier,2020-09-11
+473,774,Liam Davis,Customer Service Rep,2024-04-27
+474,795,Liam Davis,Cashier,2022-08-16
+475,381,Liam Garcia,Stock Associate,2020-07-09
+476,15,Liam Garcia,Cashier,2021-05-24
+477,329,Liam Garcia,Customer Service Rep,2020-05-10
+478,294,Liam Garcia,Store Manager,2020-11-06
+479,591,Liam Johnson,Cashier,2024-09-06
+480,582,Liam Johnson,Supervisor,2023-12-27
+481,228,Liam Johnson,Customer Service Rep,2023-08-24
+482,535,Liam Johnson,Customer Service Rep,2022-06-10
+483,109,Liam Jones,Stock Associate,2024-03-13
+484,324,Liam Martinez,Stock Associate,2020-11-02
+485,58,Liam Miller,Sales Associate,2020-12-26
+486,43,Liam Miller,Supervisor,2021-07-24
+487,232,Liam Miller,Customer Service Rep,2024-06-13
+488,586,Liam Miller,Customer Service Rep,2020-07-25
+489,462,Liam Miller,Supervisor,2022-12-08
+490,605,Liam Rodriguez,Store Manager,2024-10-10
+491,694,Liam Rodriguez,Stock Associate,2023-11-02
+492,360,Liam Rodriguez,Store Manager,2022-02-03
+493,362,Liam Rodriguez,Supervisor,2020-02-05
+494,239,Liam Rodriguez,Supervisor,2024-07-24
+495,504,Liam Smith,Supervisor,2023-06-11
+496,23,Liam Williams,Cashier,2023-05-03
+497,792,Liam Williams,Cashier,2021-02-17
+498,359,Liam Williams,Customer Service Rep,2021-04-18
+499,555,Liam Williams,Customer Service Rep,2020-12-20
+500,292,Liam Williams,Stock Associate,2023-07-12
+501,337,Lucas Brown,Customer Service Rep,2020-03-31
+502,161,Lucas Brown,Customer Service Rep,2023-08-02
+503,257,Lucas Davis,Cashier,2024-07-17
+504,386,Lucas Davis,Cashier,2020-10-04
+505,392,Lucas Davis,Supervisor,2024-08-29
+506,220,Lucas Davis,Sales Associate,2022-12-29
+507,686,Lucas Davis,Sales Associate,2023-04-24
+508,260,Lucas Garcia,Stock Associate,2023-03-18
+509,117,Lucas Garcia,Supervisor,2021-10-24
+510,512,Lucas Garcia,Customer Service Rep,2020-06-08
+511,464,Lucas Garcia,Sales Associate,2021-06-06
+512,86,Lucas Garcia,Supervisor,2021-11-28
+513,758,Lucas Garcia,Store Manager,2021-06-16
+514,85,Lucas Garcia,Cashier,2022-10-09
+515,451,Lucas Johnson,Sales Associate,2022-10-20
+516,136,Lucas Jones,Cashier,2020-04-04
+517,356,Lucas Jones,Store Manager,2024-01-21
+518,152,Lucas Jones,Stock Associate,2022-02-19
+519,775,Lucas Jones,Supervisor,2020-11-20
+520,766,Lucas Jones,Customer Service Rep,2023-06-29
+521,569,Lucas Martinez,Stock Associate,2023-06-25
+522,70,Lucas Martinez,Stock Associate,2020-02-25
+523,168,Lucas Martinez,Cashier,2024-01-29
+524,472,Lucas Martinez,Store Manager,2024-05-01
+525,619,Lucas Martinez,Stock Associate,2020-10-02
+526,546,Lucas Miller,Customer Service Rep,2022-09-19
+527,115,Lucas Miller,Supervisor,2021-10-19
+528,399,Lucas Miller,Store Manager,2024-04-30
+529,297,Lucas Rodriguez,Supervisor,2023-10-16
+530,255,Lucas Rodriguez,Cashier,2021-06-20
+531,209,Lucas Rodriguez,Stock Associate,2023-06-02
+532,518,Lucas Smith,Supervisor,2020-02-11
+533,487,Lucas Williams,Cashier,2020-01-25
+534,123,Lucas Williams,Store Manager,2024-01-07
+535,676,Lucas Williams,Stock Associate,2023-03-04
+536,389,Lucas Williams,Store Manager,2021-10-15
+537,335,Lucas Williams,Supervisor,2021-01-21
+538,192,Lucas Williams,Sales Associate,2022-02-17
+539,240,Lucas Williams,Sales Associate,2020-05-09
+540,693,Luna Brown,Store Manager,2022-02-28
+541,685,Luna Brown,Store Manager,2024-07-19
+542,39,Luna Brown,Sales Associate,2024-06-26
+543,525,Luna Brown,Cashier,2020-02-22
+544,298,Luna Brown,Sales Associate,2021-07-25
+545,206,Luna Davis,Stock Associate,2023-08-27
+546,463,Luna Davis,Store Manager,2022-11-12
+547,139,Luna Davis,Stock Associate,2020-10-20
+548,729,Luna Davis,Sales Associate,2024-04-14
+549,90,Luna Davis,Stock Associate,2022-12-23
+550,83,Luna Davis,Store Manager,2024-08-18
+551,427,Luna Garcia,Customer Service Rep,2021-08-22
+552,390,Luna Garcia,Store Manager,2021-07-28
+553,202,Luna Garcia,Sales Associate,2022-06-19
+554,552,Luna Garcia,Sales Associate,2024-09-11
+555,374,Luna Garcia,Cashier,2023-07-22
+556,171,Luna Johnson,Sales Associate,2021-07-17
+557,154,Luna Johnson,Customer Service Rep,2024-08-14
+558,94,Luna Johnson,Sales Associate,2021-08-29
+559,133,Luna Johnson,Supervisor,2024-10-11
+560,717,Luna Jones,Sales Associate,2022-04-13
+561,412,Luna Jones,Stock Associate,2023-04-23
+562,411,Luna Martinez,Cashier,2021-12-13
+563,587,Luna Miller,Cashier,2022-11-13
+564,181,Luna Miller,Stock Associate,2024-04-20
+565,30,Luna Rodriguez,Supervisor,2023-09-20
+566,368,Luna Rodriguez,Cashier,2021-04-15
+567,531,Luna Rodriguez,Cashier,2024-09-17
+568,207,Luna Rodriguez,Sales Associate,2020-05-06
+569,421,Luna Rodriguez,Stock Associate,2020-08-19
+570,269,Luna Smith,Cashier,2020-04-03
+571,672,Luna Smith,Stock Associate,2021-06-17
+572,498,Luna Smith,Supervisor,2020-04-29
+573,284,Luna Williams,Cashier,2022-03-17
+574,138,Luna Williams,Sales Associate,2020-06-10
+575,499,Luna Williams,Cashier,2021-05-22
+576,600,Luna Williams,Stock Associate,2022-02-16
+577,188,Mia Brown,Stock Associate,2020-08-21
+578,72,Mia Brown,Store Manager,2021-10-31
+579,415,Mia Davis,Customer Service Rep,2023-01-05
+580,142,Mia Davis,Supervisor,2021-02-11
+581,172,Mia Davis,Stock Associate,2023-05-24
+582,385,Mia Davis,Cashier,2022-01-09
+583,770,Mia Davis,Supervisor,2022-08-07
+584,8,Mia Davis,Stock Associate,2022-07-13
+585,679,Mia Davis,Cashier,2020-03-22
+586,124,Mia Davis,Sales Associate,2022-07-24
+587,274,Mia Garcia,Stock Associate,2023-02-24
+588,580,Mia Garcia,Store Manager,2022-01-05
+589,557,Mia Garcia,Store Manager,2021-05-31
+590,765,Mia Johnson,Sales Associate,2020-10-06
+591,195,Mia Johnson,Store Manager,2020-02-12
+592,791,Mia Johnson,Cashier,2022-12-07
+593,315,Mia Johnson,Store Manager,2023-10-02
+594,431,Mia Johnson,Customer Service Rep,2024-06-15
+595,382,Mia Jones,Store Manager,2022-03-05
+596,485,Mia Jones,Supervisor,2024-08-06
+597,763,Mia Jones,Cashier,2022-05-14
+598,254,Mia Jones,Sales Associate,2020-08-20
+599,175,Mia Jones,Supervisor,2020-11-08
+600,730,Mia Martinez,Sales Associate,2020-04-20
+601,495,Mia Miller,Sales Associate,2023-08-09
+602,57,Mia Miller,Store Manager,2022-03-29
+603,342,Mia Miller,Store Manager,2020-11-01
+604,563,Mia Miller,Customer Service Rep,2020-03-13
+605,575,Mia Miller,Store Manager,2022-02-24
+606,598,Mia Miller,Customer Service Rep,2024-12-19
+607,585,Mia Rodriguez,Supervisor,2022-08-29
+608,682,Mia Rodriguez,Store Manager,2021-12-23
+609,50,Mia Rodriguez,Sales Associate,2021-01-27
+610,65,Mia Rodriguez,Store Manager,2022-05-01
+611,351,Mia Rodriguez,Customer Service Rep,2022-01-05
+612,282,Mia Smith,Store Manager,2020-04-14
+613,155,Mia Williams,Cashier,2020-03-17
+614,738,Mia Williams,Customer Service Rep,2020-11-02
+615,448,Mia Williams,Sales Associate,2021-07-21
+616,130,Mia Williams,Store Manager,2020-03-16
+617,684,Noah Brown,Sales Associate,2021-01-17
+618,617,Noah Brown,Store Manager,2024-08-15
+619,751,Noah Davis,Stock Associate,2020-04-20
+620,787,Noah Davis,Supervisor,2024-08-05
+621,201,Noah Davis,Store Manager,2024-03-25
+622,187,Noah Davis,Customer Service Rep,2022-05-18
+623,99,Noah Davis,Cashier,2023-03-27
+624,608,Noah Davis,Stock Associate,2022-07-06
+625,520,Noah Garcia,Stock Associate,2023-06-10
+626,401,Noah Garcia,Supervisor,2021-12-03
+627,396,Noah Garcia,Sales Associate,2023-08-18
+628,250,Noah Garcia,Stock Associate,2024-06-28
+629,433,Noah Garcia,Cashier,2024-06-17
+630,606,Noah Garcia,Sales Associate,2021-11-08
+631,176,Noah Johnson,Store Manager,2020-07-16
+632,506,Noah Johnson,Supervisor,2023-12-13
+633,579,Noah Jones,Supervisor,2022-07-22
+634,276,Noah Jones,Store Manager,2024-11-04
+635,539,Noah Jones,Stock Associate,2024-12-07
+636,768,Noah Jones,Sales Associate,2024-01-04
+637,445,Noah Martinez,Customer Service Rep,2020-12-02
+638,661,Noah Martinez,Cashier,2024-10-09
+639,163,Noah Martinez,Sales Associate,2024-07-23
+640,664,Noah Martinez,Cashier,2025-01-17
+641,79,Noah Martinez,Cashier,2024-06-18
+642,173,Noah Miller,Store Manager,2024-12-23
+643,610,Noah Miller,Cashier,2023-02-15
+644,671,Noah Rodriguez,Customer Service Rep,2020-03-04
+645,28,Noah Rodriguez,Supervisor,2020-09-28
+646,308,Noah Rodriguez,Customer Service Rep,2024-01-20
+647,798,Noah Rodriguez,Store Manager,2021-01-23
+648,611,Noah Rodriguez,Stock Associate,2021-02-27
+649,584,Noah Smith,Customer Service Rep,2020-08-25
+650,658,Noah Smith,Stock Associate,2023-05-06
+651,330,Noah Smith,Supervisor,2022-04-17
+652,460,Noah Williams,Customer Service Rep,2020-01-24
+653,650,Noah Williams,Supervisor,2023-02-16
+654,36,Noah Williams,Stock Associate,2020-03-14
+655,447,Noah Williams,Cashier,2023-04-22
+656,18,Noah Williams,Store Manager,2022-09-21
+657,377,Noah Williams,Store Manager,2023-12-28
+658,71,Noah Williams,Store Manager,2021-01-07
+659,534,Noah Williams,Sales Associate,2021-03-09
+660,571,Oliver Brown,Supervisor,2022-04-18
+661,660,Oliver Brown,Stock Associate,2024-09-05
+662,782,Oliver Brown,Supervisor,2023-02-17
+663,649,Oliver Davis,Customer Service Rep,2021-11-10
+664,739,Oliver Davis,Sales Associate,2025-01-03
+665,601,Oliver Davis,Cashier,2024-12-22
+666,711,Oliver Davis,Cashier,2021-02-17
+667,316,Oliver Garcia,Sales Associate,2020-01-14
+668,530,Oliver Johnson,Customer Service Rep,2021-12-05
+669,626,Oliver Johnson,Supervisor,2023-02-25
+670,354,Oliver Jones,Stock Associate,2023-04-11
+671,229,Oliver Jones,Store Manager,2023-11-26
+672,594,Oliver Jones,Supervisor,2024-06-29
+673,510,Oliver Martinez,Store Manager,2024-10-08
+674,688,Oliver Martinez,Sales Associate,2020-04-24
+675,100,Oliver Martinez,Supervisor,2020-06-23
+676,511,Oliver Martinez,Sales Associate,2023-08-02
+677,473,Oliver Miller,Cashier,2021-04-22
+678,105,Oliver Miller,Store Manager,2023-11-12
+679,488,Oliver Miller,Supervisor,2023-11-06
+680,541,Oliver Miller,Sales Associate,2023-06-20
+681,234,Oliver Miller,Cashier,2023-06-13
+682,746,Oliver Miller,Customer Service Rep,2023-06-08
+683,491,Oliver Miller,Store Manager,2020-03-01
+684,635,Oliver Rodriguez,Cashier,2022-02-11
+685,441,Oliver Rodriguez,Customer Service Rep,2022-06-30
+686,278,Oliver Rodriguez,Store Manager,2022-10-18
+687,370,Oliver Smith,Sales Associate,2023-04-17
+688,251,Oliver Smith,Sales Associate,2020-05-17
+689,599,Oliver Williams,Cashier,2022-05-02
+690,481,Oliver Williams,Store Manager,2022-08-12
+691,429,Oliver Williams,Customer Service Rep,2021-10-21
+692,773,Olivia Brown,Store Manager,2024-04-28
+693,349,Olivia Brown,Customer Service Rep,2020-08-28
+694,420,Olivia Brown,Stock Associate,2021-08-14
+695,407,Olivia Davis,Stock Associate,2022-05-29
+696,81,Olivia Davis,Cashier,2022-06-06
+697,781,Olivia Garcia,Customer Service Rep,2020-11-11
+698,40,Olivia Garcia,Store Manager,2024-06-30
+699,69,Olivia Garcia,Customer Service Rep,2023-10-22
+700,542,Olivia Garcia,Customer Service Rep,2021-05-01
+701,547,Olivia Johnson,Supervisor,2023-12-24
+702,59,Olivia Johnson,Store Manager,2020-09-30
+703,302,Olivia Johnson,Supervisor,2022-06-24
+704,538,Olivia Johnson,Store Manager,2020-11-02
+705,194,Olivia Johnson,Supervisor,2023-03-25
+706,602,Olivia Jones,Customer Service Rep,2021-10-05
+707,89,Olivia Jones,Sales Associate,2022-04-08
+708,249,Olivia Martinez,Store Manager,2021-07-16
+709,279,Olivia Miller,Stock Associate,2022-07-25
+710,373,Olivia Miller,Sales Associate,2024-09-13
+711,341,Olivia Miller,Stock Associate,2022-10-12
+712,344,Olivia Miller,Stock Associate,2022-12-21
+713,759,Olivia Rodriguez,Sales Associate,2021-12-05
+714,96,Olivia Rodriguez,Supervisor,2023-11-29
+715,687,Olivia Smith,Sales Associate,2023-03-20
+716,474,Olivia Smith,Customer Service Rep,2022-02-09
+717,367,Olivia Williams,Cashier,2022-10-20
+718,106,Sophia Brown,Supervisor,2023-12-18
+719,355,Sophia Brown,Supervisor,2021-04-16
+720,523,Sophia Brown,Cashier,2020-04-11
+721,271,Sophia Brown,Customer Service Rep,2022-04-11
+722,540,Sophia Davis,Stock Associate,2023-06-01
+723,212,Sophia Garcia,Cashier,2023-04-08
+724,26,Sophia Garcia,Sales Associate,2021-06-27
+725,281,Sophia Johnson,Store Manager,2020-10-01
+726,369,Sophia Johnson,Customer Service Rep,2021-07-28
+727,92,Sophia Johnson,Customer Service Rep,2021-01-29
+728,470,Sophia Johnson,Stock Associate,2022-07-24
+729,424,Sophia Johnson,Store Manager,2024-11-07
+730,544,Sophia Johnson,Sales Associate,2020-10-02
+731,73,Sophia Jones,Cashier,2022-08-21
+732,140,Sophia Jones,Customer Service Rep,2020-01-20
+733,103,Sophia Martinez,Customer Service Rep,2020-07-22
+734,114,Sophia Martinez,Store Manager,2023-07-24
+735,748,Sophia Martinez,Customer Service Rep,2022-03-20
+736,558,Sophia Martinez,Cashier,2020-01-16
+737,703,Sophia Martinez,Supervisor,2023-06-07
+738,144,Sophia Miller,Supervisor,2020-01-17
+739,319,Sophia Miller,Customer Service Rep,2022-10-26
+740,52,Sophia Miller,Stock Associate,2023-05-27
+741,479,Sophia Miller,Customer Service Rep,2024-08-30
+742,222,Sophia Rodriguez,Stock Associate,2022-05-07
+743,242,Sophia Rodriguez,Store Manager,2021-06-02
+744,34,Sophia Smith,Supervisor,2024-04-28
+745,515,Sophia Smith,Cashier,2022-03-01
+746,761,Sophia Smith,Stock Associate,2022-02-04
+747,543,Sophia Smith,Supervisor,2024-08-01
+748,314,Sophia Williams,Stock Associate,2024-10-19
+749,636,Sophia Williams,Sales Associate,2023-04-11
+750,213,Sophia Williams,Stock Associate,2023-12-22
+751,127,Sophia Williams,Store Manager,2023-01-08
+752,384,Sophia Williams,Cashier,2020-12-08
+753,777,William Brown,Cashier,2021-04-28
+754,780,William Brown,Sales Associate,2022-10-20
+755,567,William Brown,Supervisor,2021-04-02
+756,413,William Brown,Supervisor,2020-08-27
+757,634,William Brown,Supervisor,2022-07-08
+758,522,William Brown,Store Manager,2023-11-28
+759,216,William Brown,Sales Associate,2020-10-08
+760,400,William Davis,Cashier,2021-08-28
+761,311,William Davis,Customer Service Rep,2023-01-17
+762,596,William Davis,Stock Associate,2021-07-03
+763,365,William Davis,Stock Associate,2021-05-13
+764,116,William Davis,Supervisor,2023-09-18
+765,720,William Davis,Stock Associate,2024-10-31
+766,668,William Davis,Store Manager,2022-01-04
+767,211,William Garcia,Cashier,2023-02-16
+768,505,William Garcia,Cashier,2020-02-14
+769,560,William Garcia,Supervisor,2021-06-18
+770,507,William Garcia,Sales Associate,2020-11-18
+771,528,William Garcia,Sales Associate,2022-07-01
+772,722,William Garcia,Stock Associate,2023-01-02
+773,796,William Garcia,Customer Service Rep,2020-04-29
+774,80,William Garcia,Cashier,2022-11-02
+775,74,William Johnson,Customer Service Rep,2020-03-23
+776,259,William Johnson,Sales Associate,2024-06-10
+777,283,William Johnson,Store Manager,2022-10-29
+778,266,William Johnson,Supervisor,2021-02-06
+779,48,William Johnson,Customer Service Rep,2021-11-07
+780,444,William Jones,Sales Associate,2022-02-22
+781,218,William Martinez,Store Manager,2020-11-11
+782,502,William Martinez,Sales Associate,2024-09-09
+783,603,William Miller,Customer Service Rep,2024-01-28
+784,442,William Miller,Customer Service Rep,2020-09-27
+785,244,William Miller,Customer Service Rep,2022-06-19
+786,208,William Rodriguez,Customer Service Rep,2020-12-19
+787,564,William Rodriguez,Customer Service Rep,2024-05-26
+788,22,William Smith,Stock Associate,2022-09-03
+789,573,William Smith,Store Manager,2021-07-14
+790,439,William Smith,Store Manager,2023-07-05
+791,160,William Smith,Store Manager,2021-07-19
+792,767,William Williams,Cashier,2022-12-31
+793,404,William Williams,Customer Service Rep,2021-05-14
+794,639,William Williams,Stock Associate,2020-05-19
+795,288,William Williams,Store Manager,2023-06-16
+796,637,William Williams,Cashier,2020-11-10

@@ -1,0 +1,65 @@
+﻿Store_Key,Store_ID,Store_Name,City,State,Region,Opening_Date
+1,17,Atlanta Store 1,Atlanta,GA,South,2019-09-29
+2,18,Atlanta Store 2,Atlanta,GA,South,2021-10-10
+3,19,Atlanta Store 3,Atlanta,GA,South,2019-01-15
+4,20,Atlanta Store 4,Atlanta,GA,South,2019-02-01
+5,5,Boston Store 1,Boston,MA,Northeast,2018-12-23
+6,6,Boston Store 2,Boston,MA,Northeast,2022-09-25
+7,7,Boston Store 3,Boston,MA,Northeast,2018-05-03
+8,8,Boston Store 4,Boston,MA,Northeast,2020-06-14
+9,13,Buffalo Store 1,Buffalo,NY,Northeast,2023-01-14
+10,14,Buffalo Store 2,Buffalo,NY,Northeast,2021-02-13
+11,15,Buffalo Store 3,Buffalo,NY,Northeast,2019-10-16
+12,16,Buffalo Store 4,Buffalo,NY,Northeast,2021-10-25
+13,25,Charlotte Store 1,Charlotte,NC,South,2018-11-19
+14,26,Charlotte Store 2,Charlotte,NC,South,2021-04-15
+15,27,Charlotte Store 3,Charlotte,NC,South,2022-01-21
+16,28,Charlotte Store 4,Charlotte,NC,South,2020-02-27
+17,33,Chicago Store 1,Chicago,IL,Midwest,2023-02-01
+18,34,Chicago Store 2,Chicago,IL,Midwest,2022-02-03
+19,35,Chicago Store 3,Chicago,IL,Midwest,2022-02-25
+20,36,Chicago Store 4,Chicago,IL,Midwest,2020-05-08
+21,37,Columbus Store 1,Columbus,OH,Midwest,2018-10-20
+22,38,Columbus Store 2,Columbus,OH,Midwest,2019-12-02
+23,39,Columbus Store 3,Columbus,OH,Midwest,2020-09-29
+24,40,Columbus Store 4,Columbus,OH,Midwest,2023-03-09
+25,41,Detroit Store 1,Detroit,MI,Midwest,2021-01-10
+26,42,Detroit Store 2,Detroit,MI,Midwest,2020-06-18
+27,43,Detroit Store 3,Detroit,MI,Midwest,2018-08-18
+28,44,Detroit Store 4,Detroit,MI,Midwest,2018-05-12
+29,45,Indianapolis Store 1,Indianapolis,IN,Midwest,2022-07-02
+30,46,Indianapolis Store 2,Indianapolis,IN,Midwest,2018-09-29
+31,47,Indianapolis Store 3,Indianapolis,IN,Midwest,2021-07-12
+32,48,Indianapolis Store 4,Indianapolis,IN,Midwest,2023-08-07
+33,49,Los Angeles Store 1,Los Angeles,CA,West,2023-02-23
+34,50,Los Angeles Store 2,Los Angeles,CA,West,2020-12-20
+35,51,Los Angeles Store 3,Los Angeles,CA,West,2020-10-07
+36,52,Los Angeles Store 4,Los Angeles,CA,West,2020-12-12
+37,21,Miami Store 1,Miami,FL,South,2021-11-09
+38,22,Miami Store 2,Miami,FL,South,2020-12-19
+39,23,Miami Store 3,Miami,FL,South,2023-02-25
+40,24,Miami Store 4,Miami,FL,South,2019-05-27
+41,29,Nashville Store 1,Nashville,TN,South,2018-07-07
+42,30,Nashville Store 2,Nashville,TN,South,2021-03-31
+43,31,Nashville Store 3,Nashville,TN,South,2020-08-11
+44,32,Nashville Store 4,Nashville,TN,South,2022-04-06
+45,1,New Store 1,New York,NY,Northeast,2019-04-02
+46,2,New Store 2,New York,NY,Northeast,2021-01-31
+47,3,New Store 3,New York,NY,Northeast,2020-07-03
+48,4,New Store 4,New York,NY,Northeast,2019-02-24
+49,9,Philadelphia Store 1,Philadelphia,PA,Northeast,2023-09-01
+50,10,Philadelphia Store 2,Philadelphia,PA,Northeast,2018-04-19
+51,11,Philadelphia Store 3,Philadelphia,PA,Northeast,2020-03-25
+52,12,Philadelphia Store 4,Philadelphia,PA,Northeast,2022-09-15
+53,57,Phoenix Store 1,Phoenix,AZ,West,2019-01-08
+54,58,Phoenix Store 2,Phoenix,AZ,West,2019-03-26
+55,59,Phoenix Store 3,Phoenix,AZ,West,2019-10-18
+56,60,Phoenix Store 4,Phoenix,AZ,West,2018-09-18
+57,53,San Diego Store 1,San Diego,CA,West,2022-10-21
+58,54,San Diego Store 2,San Diego,CA,West,2022-06-24
+59,55,San Diego Store 3,San Diego,CA,West,2020-06-17
+60,56,San Diego Store 4,San Diego,CA,West,2023-09-19
+61,61,Seattle Store 1,Seattle,WA,West,2022-04-13
+62,62,Seattle Store 2,Seattle,WA,West,2023-04-02
+63,63,Seattle Store 3,Seattle,WA,West,2020-10-26
+64,64,Seattle Store 4,Seattle,WA,West,2018-02-17

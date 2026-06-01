@@ -1,0 +1,601 @@
+﻿Product_Key,Product_ID,SKU,Product_Name,Package_Size,Brand_Name,Department_Name
+1,6,SKU-01-00006,Product_01_0006,250g,Urban Retail,Grocery
+2,18,SKU-01-00018,Product_01_0018,250g,Ever Brands,Grocery
+3,25,SKU-01-00025,Product_01_0025,1kg,Ever Retail,Grocery
+4,57,SKU-01-00057,Product_01_0057,1.5L,Peak Labs,Grocery
+5,62,SKU-01-00062,Product_01_0062,1kg,Ever Retail,Grocery
+6,64,SKU-01-00064,Product_01_0064,500g,Bright Co,Grocery
+7,79,SKU-01-00079,Product_01_0079,12-Pack,Peak Essentials,Grocery
+8,86,SKU-01-00086,Product_01_0086,Family Pack,Apex Essentials,Grocery
+9,87,SKU-01-00087,Product_01_0087,1.5L,True Foods,Grocery
+10,112,SKU-01-00112,Product_01_0112,250g,Fresh Essentials,Grocery
+11,116,SKU-01-00116,Product_01_0116,Family Pack,Urban Labs,Grocery
+12,122,SKU-01-00122,Product_01_0122,Single Pack,Peak Essentials,Grocery
+13,163,SKU-01-00163,Product_01_0163,12-Pack,Pure Group,Grocery
+14,165,SKU-01-00165,Product_01_0165,2L,True Foods,Grocery
+15,194,SKU-01-00194,Product_01_0194,750g,Apex Essentials,Grocery
+16,216,SKU-01-00216,Product_01_0216,12-Pack,Pure Co,Grocery
+17,222,SKU-01-00222,Product_01_0222,750g,Fresh Essentials,Grocery
+18,226,SKU-01-00226,Product_01_0226,12-Pack,Urban Retail,Grocery
+19,228,SKU-01-00228,Product_01_0228,2L,Blue Brands,Grocery
+20,244,SKU-01-00244,Product_01_0244,750g,Bright Co,Grocery
+21,257,SKU-01-00257,Product_01_0257,Single Pack,Ever Works,Grocery
+22,269,SKU-01-00269,Product_01_0269,12-Pack,Peak Essentials,Grocery
+23,279,SKU-01-00279,Product_01_0279,500g,Bright Group,Grocery
+24,313,SKU-01-00313,Product_01_0313,1kg,Ever Retail,Grocery
+25,326,SKU-01-00326,Product_01_0326,750g,Apex Group,Grocery
+26,355,SKU-01-00355,Product_01_0355,1kg,True Foods,Grocery
+27,367,SKU-01-00367,Product_01_0367,1.5L,Peak Labs,Grocery
+28,368,SKU-01-00368,Product_01_0368,2L,Ever Brands,Grocery
+29,376,SKU-01-00376,Product_01_0376,2L,Urban Labs,Grocery
+30,390,SKU-01-00390,Product_01_0390,500g,Nova Brands,Grocery
+31,419,SKU-01-00419,Product_01_0419,Single Pack,Ever Works,Grocery
+32,437,SKU-01-00437,Product_01_0437,1kg,Apex Works,Grocery
+33,439,SKU-01-00439,Product_01_0439,750g,Blue Brands,Grocery
+34,454,SKU-01-00454,Product_01_0454,Family Pack,Blue Brands,Grocery
+35,466,SKU-01-00466,Product_01_0466,Family Pack,Blue Brands,Grocery
+36,473,SKU-01-00473,Product_01_0473,750g,Ever Brands,Grocery
+37,475,SKU-01-00475,Product_01_0475,1.5L,True Labs,Grocery
+38,512,SKU-01-00512,Product_01_0512,500g,True Foods,Grocery
+39,519,SKU-01-00519,Product_01_0519,1.5L,Urban Retail,Grocery
+40,540,SKU-01-00540,Product_01_0540,1kg,Blue Brands,Grocery
+41,542,SKU-01-00542,Product_01_0542,1kg,Fresh Essentials,Grocery
+42,569,SKU-01-00569,Product_01_0569,500g,Urban Group,Grocery
+43,571,SKU-01-00571,Product_01_0571,1.5L,Bright Co,Grocery
+44,574,SKU-01-00574,Product_01_0574,2L,Ever Works,Grocery
+45,583,SKU-01-00583,Product_01_0583,2L,True Foods,Grocery
+46,591,SKU-01-00591,Product_01_0591,500g,Apex Works,Grocery
+47,17,SKU-02-00017,Product_02_0017,250g,Bright Co,Beverages
+48,30,SKU-02-00030,Product_02_0030,750g,True Foods,Beverages
+49,35,SKU-02-00035,Product_02_0035,2L,Urban Labs,Beverages
+50,40,SKU-02-00040,Product_02_0040,1.5L,Ever Brands,Beverages
+51,55,SKU-02-00055,Product_02_0055,2L,Bright Brands,Beverages
+52,59,SKU-02-00059,Product_02_0059,2L,True Foods,Beverages
+53,78,SKU-02-00078,Product_02_0078,750g,Ever Brands,Beverages
+54,98,SKU-02-00098,Product_02_0098,Single Pack,Blue Brands,Beverages
+55,126,SKU-02-00126,Product_02_0126,1kg,Pure Group,Beverages
+56,127,SKU-02-00127,Product_02_0127,Family Pack,True Foods,Beverages
+57,145,SKU-02-00145,Product_02_0145,Family Pack,Bright Group,Beverages
+58,150,SKU-02-00150,Product_02_0150,Single Pack,Bright Co,Beverages
+59,164,SKU-02-00164,Product_02_0164,1.5L,Nova Brands,Beverages
+60,176,SKU-02-00176,Product_02_0176,250g,Urban Group,Beverages
+61,187,SKU-02-00187,Product_02_0187,2L,Urban Retail,Beverages
+62,189,SKU-02-00189,Product_02_0189,250g,Apex Works,Beverages
+63,229,SKU-02-00229,Product_02_0229,500g,Urban Group,Beverages
+64,233,SKU-02-00233,Product_02_0233,750g,Ever Retail,Beverages
+65,242,SKU-02-00242,Product_02_0242,12-Pack,Ever Works,Beverages
+66,246,SKU-02-00246,Product_02_0246,1.5L,Pure Group,Beverages
+67,282,SKU-02-00282,Product_02_0282,Family Pack,Bright Co,Beverages
+68,293,SKU-02-00293,Product_02_0293,1kg,Urban Retail,Beverages
+69,301,SKU-02-00301,Product_02_0301,Family Pack,True Foods,Beverages
+70,305,SKU-02-00305,Product_02_0305,1.5L,Bright Co,Beverages
+71,307,SKU-02-00307,Product_02_0307,750g,True Foods,Beverages
+72,321,SKU-02-00321,Product_02_0321,Single Pack,Bright Group,Beverages
+73,322,SKU-02-00322,Product_02_0322,1kg,Urban Group,Beverages
+74,325,SKU-02-00325,Product_02_0325,1kg,Urban Co,Beverages
+75,342,SKU-02-00342,Product_02_0342,1kg,Urban Group,Beverages
+76,346,SKU-02-00346,Product_02_0346,1kg,Apex Essentials,Beverages
+77,353,SKU-02-00353,Product_02_0353,500g,True Foods,Beverages
+78,383,SKU-02-00383,Product_02_0383,1.5L,Urban Works,Beverages
+79,384,SKU-02-00384,Product_02_0384,250g,Peak Essentials,Beverages
+80,389,SKU-02-00389,Product_02_0389,12-Pack,Ever Retail,Beverages
+81,406,SKU-02-00406,Product_02_0406,Single Pack,Bright Co,Beverages
+82,411,SKU-02-00411,Product_02_0411,500g,Apex Essentials,Beverages
+83,460,SKU-02-00460,Product_02_0460,500g,Ever Retail,Beverages
+84,463,SKU-02-00463,Product_02_0463,1.5L,Pure Group,Beverages
+85,478,SKU-02-00478,Product_02_0478,500g,Ever Works,Beverages
+86,491,SKU-02-00491,Product_02_0491,2L,Ever Works,Beverages
+87,495,SKU-02-00495,Product_02_0495,1kg,Fresh Essentials,Beverages
+88,518,SKU-02-00518,Product_02_0518,1kg,True Labs,Beverages
+89,527,SKU-02-00527,Product_02_0527,Single Pack,True Foods,Beverages
+90,531,SKU-02-00531,Product_02_0531,Single Pack,Bright Co,Beverages
+91,562,SKU-02-00562,Product_02_0562,Single Pack,Urban Group,Beverages
+92,573,SKU-02-00573,Product_02_0573,250g,Apex Works,Beverages
+93,22,SKU-03-00022,Product_03_0022,1kg,Blue Brands,Electronics
+94,39,SKU-03-00039,Product_03_0039,12-Pack,Apex Retail,Electronics
+95,51,SKU-03-00051,Product_03_0051,750g,Ever Brands,Electronics
+96,68,SKU-03-00068,Product_03_0068,2L,Ever Brands,Electronics
+97,77,SKU-03-00077,Product_03_0077,1kg,Ever Brands,Electronics
+98,83,SKU-03-00083,Product_03_0083,1kg,Bright Co,Electronics
+99,117,SKU-03-00117,Product_03_0117,1kg,Bright Co,Electronics
+100,133,SKU-03-00133,Product_03_0133,Family Pack,Urban Group,Electronics
+101,134,SKU-03-00134,Product_03_0134,Single Pack,Ever Retail,Electronics
+102,147,SKU-03-00147,Product_03_0147,500g,Urban Works,Electronics
+103,159,SKU-03-00159,Product_03_0159,Single Pack,Bright Co,Electronics
+104,169,SKU-03-00169,Product_03_0169,2L,Urban Co,Electronics
+105,177,SKU-03-00177,Product_03_0177,Family Pack,Nova Brands,Electronics
+106,198,SKU-03-00198,Product_03_0198,2L,Ever Retail,Electronics
+107,210,SKU-03-00210,Product_03_0210,250g,True Foods,Electronics
+108,237,SKU-03-00237,Product_03_0237,Single Pack,Urban Works,Electronics
+109,251,SKU-03-00251,Product_03_0251,500g,Bright Co,Electronics
+110,263,SKU-03-00263,Product_03_0263,250g,Urban Co,Electronics
+111,275,SKU-03-00275,Product_03_0275,Family Pack,Apex Retail,Electronics
+112,284,SKU-03-00284,Product_03_0284,Single Pack,Ever Brands,Electronics
+113,288,SKU-03-00288,Product_03_0288,250g,Apex Group,Electronics
+114,333,SKU-03-00333,Product_03_0333,12-Pack,Pure Group,Electronics
+115,345,SKU-03-00345,Product_03_0345,500g,Bright Brands,Electronics
+116,349,SKU-03-00349,Product_03_0349,Family Pack,Pure Co,Electronics
+117,351,SKU-03-00351,Product_03_0351,2L,Ever Brands,Electronics
+118,357,SKU-03-00357,Product_03_0357,250g,Pure Group,Electronics
+119,402,SKU-03-00402,Product_03_0402,250g,True Labs,Electronics
+120,412,SKU-03-00412,Product_03_0412,12-Pack,Peak Labs,Electronics
+121,416,SKU-03-00416,Product_03_0416,Family Pack,Bright Co,Electronics
+122,448,SKU-03-00448,Product_03_0448,1.5L,Pure Co,Electronics
+123,452,SKU-03-00452,Product_03_0452,Single Pack,Bright Group,Electronics
+124,468,SKU-03-00468,Product_03_0468,250g,Apex Group,Electronics
+125,472,SKU-03-00472,Product_03_0472,1kg,Apex Group,Electronics
+126,474,SKU-03-00474,Product_03_0474,Single Pack,Urban Co,Electronics
+127,477,SKU-03-00477,Product_03_0477,1.5L,Peak Essentials,Electronics
+128,484,SKU-03-00484,Product_03_0484,1kg,Apex Essentials,Electronics
+129,497,SKU-03-00497,Product_03_0497,500g,Apex Group,Electronics
+130,510,SKU-03-00510,Product_03_0510,2L,Apex Retail,Electronics
+131,534,SKU-03-00534,Product_03_0534,1.5L,Nova Brands,Electronics
+132,537,SKU-03-00537,Product_03_0537,500g,Nova Brands,Electronics
+133,544,SKU-03-00544,Product_03_0544,Family Pack,Ever Retail,Electronics
+134,553,SKU-03-00553,Product_03_0553,12-Pack,Bright Co,Electronics
+135,555,SKU-03-00555,Product_03_0555,750g,Urban Retail,Electronics
+136,568,SKU-03-00568,Product_03_0568,750g,Urban Group,Electronics
+137,584,SKU-03-00584,Product_03_0584,Single Pack,Nova Brands,Electronics
+138,590,SKU-03-00590,Product_03_0590,750g,Blue Brands,Electronics
+139,592,SKU-03-00592,Product_03_0592,2L,Pure Co,Electronics
+140,1,SKU-04-00001,Product_04_0001,Family Pack,Peak Essentials,Home Care
+141,16,SKU-04-00016,Product_04_0016,1kg,Bright Brands,Home Care
+142,36,SKU-04-00036,Product_04_0036,1kg,Nova Brands,Home Care
+143,47,SKU-04-00047,Product_04_0047,12-Pack,Bright Group,Home Care
+144,58,SKU-04-00058,Product_04_0058,2L,Urban Retail,Home Care
+145,67,SKU-04-00067,Product_04_0067,500g,Ever Brands,Home Care
+146,96,SKU-04-00096,Product_04_0096,1.5L,Fresh Essentials,Home Care
+147,104,SKU-04-00104,Product_04_0104,Single Pack,Bright Group,Home Care
+148,131,SKU-04-00131,Product_04_0131,2L,Nova Brands,Home Care
+149,154,SKU-04-00154,Product_04_0154,Single Pack,Peak Essentials,Home Care
+150,155,SKU-04-00155,Product_04_0155,2L,Bright Co,Home Care
+151,161,SKU-04-00161,Product_04_0161,1kg,Blue Brands,Home Care
+152,166,SKU-04-00166,Product_04_0166,1.5L,Bright Brands,Home Care
+153,175,SKU-04-00175,Product_04_0175,2L,Bright Group,Home Care
+154,182,SKU-04-00182,Product_04_0182,750g,Urban Works,Home Care
+155,193,SKU-04-00193,Product_04_0193,1.5L,Urban Labs,Home Care
+156,206,SKU-04-00206,Product_04_0206,12-Pack,True Foods,Home Care
+157,212,SKU-04-00212,Product_04_0212,250g,Bright Co,Home Care
+158,258,SKU-04-00258,Product_04_0258,250g,Apex Essentials,Home Care
+159,259,SKU-04-00259,Product_04_0259,1kg,Urban Co,Home Care
+160,260,SKU-04-00260,Product_04_0260,500g,Apex Group,Home Care
+161,281,SKU-04-00281,Product_04_0281,Single Pack,Apex Retail,Home Care
+162,287,SKU-04-00287,Product_04_0287,250g,Blue Brands,Home Care
+163,289,SKU-04-00289,Product_04_0289,250g,Bright Co,Home Care
+164,292,SKU-04-00292,Product_04_0292,1kg,Urban Retail,Home Care
+165,300,SKU-04-00300,Product_04_0300,12-Pack,Nova Brands,Home Care
+166,311,SKU-04-00311,Product_04_0311,12-Pack,Ever Brands,Home Care
+167,312,SKU-04-00312,Product_04_0312,2L,Apex Retail,Home Care
+168,330,SKU-04-00330,Product_04_0330,1kg,Bright Co,Home Care
+169,361,SKU-04-00361,Product_04_0361,1.5L,Pure Co,Home Care
+170,365,SKU-04-00365,Product_04_0365,12-Pack,Ever Brands,Home Care
+171,373,SKU-04-00373,Product_04_0373,500g,True Labs,Home Care
+172,385,SKU-04-00385,Product_04_0385,12-Pack,Urban Retail,Home Care
+173,407,SKU-04-00407,Product_04_0407,1.5L,Blue Brands,Home Care
+174,418,SKU-04-00418,Product_04_0418,2L,Bright Brands,Home Care
+175,426,SKU-04-00426,Product_04_0426,500g,True Foods,Home Care
+176,436,SKU-04-00436,Product_04_0436,Family Pack,Peak Labs,Home Care
+177,444,SKU-04-00444,Product_04_0444,250g,Urban Labs,Home Care
+178,487,SKU-04-00487,Product_04_0487,12-Pack,Urban Retail,Home Care
+179,488,SKU-04-00488,Product_04_0488,2L,True Foods,Home Care
+180,504,SKU-04-00504,Product_04_0504,500g,Urban Works,Home Care
+181,507,SKU-04-00507,Product_04_0507,500g,Ever Retail,Home Care
+182,514,SKU-04-00514,Product_04_0514,500g,Pure Group,Home Care
+183,516,SKU-04-00516,Product_04_0516,2L,Peak Essentials,Home Care
+184,545,SKU-04-00545,Product_04_0545,750g,Bright Co,Home Care
+185,580,SKU-04-00580,Product_04_0580,Family Pack,Pure Group,Home Care
+186,581,SKU-04-00581,Product_04_0581,2L,Ever Brands,Home Care
+187,21,SKU-05-00021,Product_05_0021,12-Pack,Urban Works,Beauty
+188,23,SKU-05-00023,Product_05_0023,2L,Peak Essentials,Beauty
+189,26,SKU-05-00026,Product_05_0026,1kg,Apex Group,Beauty
+190,33,SKU-05-00033,Product_05_0033,Family Pack,Apex Works,Beauty
+191,65,SKU-05-00065,Product_05_0065,Family Pack,Apex Retail,Beauty
+192,71,SKU-05-00071,Product_05_0071,Single Pack,Blue Brands,Beauty
+193,101,SKU-05-00101,Product_05_0101,1kg,Ever Retail,Beauty
+194,113,SKU-05-00113,Product_05_0113,250g,True Labs,Beauty
+195,132,SKU-05-00132,Product_05_0132,750g,Urban Works,Beauty
+196,142,SKU-05-00142,Product_05_0142,2L,Fresh Essentials,Beauty
+197,151,SKU-05-00151,Product_05_0151,500g,Blue Brands,Beauty
+198,157,SKU-05-00157,Product_05_0157,250g,True Labs,Beauty
+199,172,SKU-05-00172,Product_05_0172,250g,Ever Brands,Beauty
+200,203,SKU-05-00203,Product_05_0203,500g,Bright Co,Beauty
+201,252,SKU-05-00252,Product_05_0252,1kg,Blue Brands,Beauty
+202,255,SKU-05-00255,Product_05_0255,2L,Bright Brands,Beauty
+203,265,SKU-05-00265,Product_05_0265,Single Pack,Urban Labs,Beauty
+204,268,SKU-05-00268,Product_05_0268,500g,Urban Co,Beauty
+205,276,SKU-05-00276,Product_05_0276,Single Pack,Ever Retail,Beauty
+206,304,SKU-05-00304,Product_05_0304,750g,Peak Essentials,Beauty
+207,310,SKU-05-00310,Product_05_0310,1.5L,Fresh Essentials,Beauty
+208,318,SKU-05-00318,Product_05_0318,250g,Bright Co,Beauty
+209,328,SKU-05-00328,Product_05_0328,12-Pack,Apex Retail,Beauty
+210,331,SKU-05-00331,Product_05_0331,250g,Urban Group,Beauty
+211,334,SKU-05-00334,Product_05_0334,250g,True Foods,Beauty
+212,335,SKU-05-00335,Product_05_0335,2L,Pure Co,Beauty
+213,356,SKU-05-00356,Product_05_0356,1.5L,True Foods,Beauty
+214,359,SKU-05-00359,Product_05_0359,1kg,Bright Group,Beauty
+215,360,SKU-05-00360,Product_05_0360,12-Pack,Nova Brands,Beauty
+216,378,SKU-05-00378,Product_05_0378,Single Pack,Pure Group,Beauty
+217,395,SKU-05-00395,Product_05_0395,250g,True Labs,Beauty
+218,397,SKU-05-00397,Product_05_0397,750g,Urban Labs,Beauty
+219,415,SKU-05-00415,Product_05_0415,12-Pack,Bright Co,Beauty
+220,420,SKU-05-00420,Product_05_0420,1.5L,Nova Brands,Beauty
+221,427,SKU-05-00427,Product_05_0427,2L,Blue Brands,Beauty
+222,432,SKU-05-00432,Product_05_0432,Family Pack,Urban Retail,Beauty
+223,441,SKU-05-00441,Product_05_0441,Family Pack,Ever Retail,Beauty
+224,442,SKU-05-00442,Product_05_0442,500g,Peak Essentials,Beauty
+225,446,SKU-05-00446,Product_05_0446,250g,Ever Brands,Beauty
+226,483,SKU-05-00483,Product_05_0483,1.5L,Peak Labs,Beauty
+227,485,SKU-05-00485,Product_05_0485,500g,Pure Group,Beauty
+228,505,SKU-05-00505,Product_05_0505,500g,Ever Retail,Beauty
+229,515,SKU-05-00515,Product_05_0515,Single Pack,Ever Brands,Beauty
+230,523,SKU-05-00523,Product_05_0523,2L,Nova Brands,Beauty
+231,525,SKU-05-00525,Product_05_0525,1.5L,True Labs,Beauty
+232,547,SKU-05-00547,Product_05_0547,2L,Ever Retail,Beauty
+233,4,SKU-06-00004,Product_06_0004,750g,Blue Brands,Pharmacy
+234,10,SKU-06-00010,Product_06_0010,250g,Peak Essentials,Pharmacy
+235,11,SKU-06-00011,Product_06_0011,1kg,Blue Brands,Pharmacy
+236,15,SKU-06-00015,Product_06_0015,Single Pack,Urban Group,Pharmacy
+237,34,SKU-06-00034,Product_06_0034,1kg,Bright Co,Pharmacy
+238,61,SKU-06-00061,Product_06_0061,Family Pack,Ever Retail,Pharmacy
+239,63,SKU-06-00063,Product_06_0063,12-Pack,Ever Brands,Pharmacy
+240,69,SKU-06-00069,Product_06_0069,500g,Urban Retail,Pharmacy
+241,97,SKU-06-00097,Product_06_0097,1.5L,Pure Co,Pharmacy
+242,102,SKU-06-00102,Product_06_0102,12-Pack,Bright Co,Pharmacy
+243,121,SKU-06-00121,Product_06_0121,250g,Nova Brands,Pharmacy
+244,125,SKU-06-00125,Product_06_0125,750g,Apex Essentials,Pharmacy
+245,136,SKU-06-00136,Product_06_0136,250g,Apex Retail,Pharmacy
+246,139,SKU-06-00139,Product_06_0139,1.5L,Peak Essentials,Pharmacy
+247,141,SKU-06-00141,Product_06_0141,500g,Apex Retail,Pharmacy
+248,181,SKU-06-00181,Product_06_0181,500g,Urban Retail,Pharmacy
+249,208,SKU-06-00208,Product_06_0208,1kg,Apex Retail,Pharmacy
+250,227,SKU-06-00227,Product_06_0227,750g,Apex Retail,Pharmacy
+251,231,SKU-06-00231,Product_06_0231,Family Pack,Bright Group,Pharmacy
+252,238,SKU-06-00238,Product_06_0238,500g,Bright Brands,Pharmacy
+253,241,SKU-06-00241,Product_06_0241,Family Pack,Fresh Essentials,Pharmacy
+254,283,SKU-06-00283,Product_06_0283,2L,True Foods,Pharmacy
+255,298,SKU-06-00298,Product_06_0298,2L,Blue Brands,Pharmacy
+256,299,SKU-06-00299,Product_06_0299,Single Pack,Apex Group,Pharmacy
+257,303,SKU-06-00303,Product_06_0303,2L,Apex Works,Pharmacy
+258,339,SKU-06-00339,Product_06_0339,1.5L,Bright Group,Pharmacy
+259,341,SKU-06-00341,Product_06_0341,12-Pack,Ever Works,Pharmacy
+260,343,SKU-06-00343,Product_06_0343,750g,Pure Group,Pharmacy
+261,344,SKU-06-00344,Product_06_0344,250g,Peak Essentials,Pharmacy
+262,347,SKU-06-00347,Product_06_0347,1.5L,Ever Retail,Pharmacy
+263,362,SKU-06-00362,Product_06_0362,12-Pack,Apex Retail,Pharmacy
+264,364,SKU-06-00364,Product_06_0364,1.5L,Urban Retail,Pharmacy
+265,370,SKU-06-00370,Product_06_0370,1.5L,Ever Retail,Pharmacy
+266,410,SKU-06-00410,Product_06_0410,250g,Pure Co,Pharmacy
+267,424,SKU-06-00424,Product_06_0424,Single Pack,Peak Labs,Pharmacy
+268,430,SKU-06-00430,Product_06_0430,250g,Apex Group,Pharmacy
+269,433,SKU-06-00433,Product_06_0433,1.5L,Ever Retail,Pharmacy
+270,447,SKU-06-00447,Product_06_0447,2L,Bright Brands,Pharmacy
+271,449,SKU-06-00449,Product_06_0449,12-Pack,Pure Co,Pharmacy
+272,450,SKU-06-00450,Product_06_0450,Single Pack,Bright Co,Pharmacy
+273,451,SKU-06-00451,Product_06_0451,1kg,Bright Co,Pharmacy
+274,461,SKU-06-00461,Product_06_0461,1kg,Blue Brands,Pharmacy
+275,503,SKU-06-00503,Product_06_0503,750g,Apex Works,Pharmacy
+276,517,SKU-06-00517,Product_06_0517,1kg,Fresh Essentials,Pharmacy
+277,550,SKU-06-00550,Product_06_0550,1.5L,Peak Essentials,Pharmacy
+278,563,SKU-06-00563,Product_06_0563,750g,Bright Group,Pharmacy
+279,600,SKU-06-00600,Product_06_0600,1kg,Bright Co,Pharmacy
+280,8,SKU-07-00008,Product_07_0008,250g,Nova Brands,Toys
+281,27,SKU-07-00027,Product_07_0027,500g,Bright Group,Toys
+282,28,SKU-07-00028,Product_07_0028,750g,Bright Brands,Toys
+283,31,SKU-07-00031,Product_07_0031,500g,Blue Brands,Toys
+284,41,SKU-07-00041,Product_07_0041,1kg,Ever Retail,Toys
+285,42,SKU-07-00042,Product_07_0042,2L,Ever Brands,Toys
+286,44,SKU-07-00044,Product_07_0044,500g,Urban Co,Toys
+287,52,SKU-07-00052,Product_07_0052,Family Pack,Bright Group,Toys
+288,66,SKU-07-00066,Product_07_0066,Family Pack,True Labs,Toys
+289,84,SKU-07-00084,Product_07_0084,1kg,Ever Retail,Toys
+290,88,SKU-07-00088,Product_07_0088,Single Pack,Bright Co,Toys
+291,115,SKU-07-00115,Product_07_0115,750g,Peak Labs,Toys
+292,135,SKU-07-00135,Product_07_0135,750g,Urban Group,Toys
+293,140,SKU-07-00140,Product_07_0140,500g,Urban Labs,Toys
+294,144,SKU-07-00144,Product_07_0144,Family Pack,True Foods,Toys
+295,156,SKU-07-00156,Product_07_0156,Family Pack,Ever Brands,Toys
+296,179,SKU-07-00179,Product_07_0179,500g,True Foods,Toys
+297,183,SKU-07-00183,Product_07_0183,500g,True Foods,Toys
+298,209,SKU-07-00209,Product_07_0209,500g,Urban Labs,Toys
+299,221,SKU-07-00221,Product_07_0221,750g,Urban Co,Toys
+300,225,SKU-07-00225,Product_07_0225,1.5L,Pure Co,Toys
+301,232,SKU-07-00232,Product_07_0232,2L,Fresh Essentials,Toys
+302,239,SKU-07-00239,Product_07_0239,Single Pack,Apex Works,Toys
+303,247,SKU-07-00247,Product_07_0247,Family Pack,Bright Co,Toys
+304,250,SKU-07-00250,Product_07_0250,500g,Apex Works,Toys
+305,253,SKU-07-00253,Product_07_0253,Single Pack,Ever Retail,Toys
+306,254,SKU-07-00254,Product_07_0254,Family Pack,Blue Brands,Toys
+307,277,SKU-07-00277,Product_07_0277,12-Pack,Fresh Essentials,Toys
+308,290,SKU-07-00290,Product_07_0290,2L,Urban Co,Toys
+309,306,SKU-07-00306,Product_07_0306,750g,Urban Group,Toys
+310,308,SKU-07-00308,Product_07_0308,250g,Urban Retail,Toys
+311,316,SKU-07-00316,Product_07_0316,1.5L,Apex Group,Toys
+312,350,SKU-07-00350,Product_07_0350,Single Pack,Bright Group,Toys
+313,372,SKU-07-00372,Product_07_0372,Single Pack,Urban Retail,Toys
+314,381,SKU-07-00381,Product_07_0381,500g,Apex Group,Toys
+315,387,SKU-07-00387,Product_07_0387,2L,Urban Co,Toys
+316,396,SKU-07-00396,Product_07_0396,1kg,Bright Group,Toys
+317,405,SKU-07-00405,Product_07_0405,1.5L,Urban Works,Toys
+318,428,SKU-07-00428,Product_07_0428,Single Pack,Bright Co,Toys
+319,429,SKU-07-00429,Product_07_0429,Single Pack,Pure Co,Toys
+320,464,SKU-07-00464,Product_07_0464,500g,Bright Co,Toys
+321,467,SKU-07-00467,Product_07_0467,Single Pack,Bright Brands,Toys
+322,479,SKU-07-00479,Product_07_0479,1.5L,Urban Labs,Toys
+323,494,SKU-07-00494,Product_07_0494,2L,Apex Works,Toys
+324,508,SKU-07-00508,Product_07_0508,1.5L,Ever Works,Toys
+325,524,SKU-07-00524,Product_07_0524,Single Pack,Ever Brands,Toys
+326,529,SKU-07-00529,Product_07_0529,500g,Pure Group,Toys
+327,532,SKU-07-00532,Product_07_0532,500g,Apex Group,Toys
+328,536,SKU-07-00536,Product_07_0536,12-Pack,True Foods,Toys
+329,539,SKU-07-00539,Product_07_0539,Single Pack,True Foods,Toys
+330,554,SKU-07-00554,Product_07_0554,1.5L,Urban Labs,Toys
+331,556,SKU-07-00556,Product_07_0556,2L,Urban Retail,Toys
+332,558,SKU-07-00558,Product_07_0558,2L,Apex Group,Toys
+333,561,SKU-07-00561,Product_07_0561,1.5L,Apex Group,Toys
+334,567,SKU-07-00567,Product_07_0567,250g,Nova Brands,Toys
+335,586,SKU-07-00586,Product_07_0586,12-Pack,True Foods,Toys
+336,587,SKU-07-00587,Product_07_0587,2L,True Foods,Toys
+337,593,SKU-07-00593,Product_07_0593,12-Pack,Urban Group,Toys
+338,594,SKU-07-00594,Product_07_0594,1.5L,Ever Retail,Toys
+339,595,SKU-07-00595,Product_07_0595,Single Pack,Urban Co,Toys
+340,5,SKU-08-00005,Product_08_0005,750g,Nova Brands,Apparel
+341,12,SKU-08-00012,Product_08_0012,500g,Urban Group,Apparel
+342,20,SKU-08-00020,Product_08_0020,500g,Blue Brands,Apparel
+343,45,SKU-08-00045,Product_08_0045,750g,Bright Brands,Apparel
+344,60,SKU-08-00060,Product_08_0060,Family Pack,Urban Co,Apparel
+345,70,SKU-08-00070,Product_08_0070,500g,Peak Essentials,Apparel
+346,75,SKU-08-00075,Product_08_0075,Family Pack,Ever Retail,Apparel
+347,76,SKU-08-00076,Product_08_0076,1kg,Urban Labs,Apparel
+348,90,SKU-08-00090,Product_08_0090,1.5L,Urban Retail,Apparel
+349,129,SKU-08-00129,Product_08_0129,2L,Ever Retail,Apparel
+350,137,SKU-08-00137,Product_08_0137,12-Pack,Pure Co,Apparel
+351,146,SKU-08-00146,Product_08_0146,Single Pack,Blue Brands,Apparel
+352,148,SKU-08-00148,Product_08_0148,Single Pack,Fresh Essentials,Apparel
+353,170,SKU-08-00170,Product_08_0170,Family Pack,Bright Brands,Apparel
+354,180,SKU-08-00180,Product_08_0180,750g,Ever Retail,Apparel
+355,191,SKU-08-00191,Product_08_0191,1.5L,Bright Co,Apparel
+356,196,SKU-08-00196,Product_08_0196,250g,Ever Retail,Apparel
+357,199,SKU-08-00199,Product_08_0199,Single Pack,Apex Works,Apparel
+358,207,SKU-08-00207,Product_08_0207,500g,Bright Co,Apparel
+359,224,SKU-08-00224,Product_08_0224,250g,Bright Co,Apparel
+360,234,SKU-08-00234,Product_08_0234,1kg,Peak Essentials,Apparel
+361,240,SKU-08-00240,Product_08_0240,1kg,Ever Retail,Apparel
+362,267,SKU-08-00267,Product_08_0267,750g,Bright Co,Apparel
+363,271,SKU-08-00271,Product_08_0271,Family Pack,True Labs,Apparel
+364,274,SKU-08-00274,Product_08_0274,250g,Ever Retail,Apparel
+365,314,SKU-08-00314,Product_08_0314,Single Pack,Ever Retail,Apparel
+366,320,SKU-08-00320,Product_08_0320,1kg,Urban Co,Apparel
+367,324,SKU-08-00324,Product_08_0324,Family Pack,Apex Essentials,Apparel
+368,371,SKU-08-00371,Product_08_0371,250g,True Foods,Apparel
+369,374,SKU-08-00374,Product_08_0374,2L,Bright Brands,Apparel
+370,375,SKU-08-00375,Product_08_0375,12-Pack,Apex Retail,Apparel
+371,401,SKU-08-00401,Product_08_0401,1.5L,Apex Retail,Apparel
+372,438,SKU-08-00438,Product_08_0438,12-Pack,Bright Group,Apparel
+373,440,SKU-08-00440,Product_08_0440,Family Pack,Bright Group,Apparel
+374,443,SKU-08-00443,Product_08_0443,1kg,Apex Works,Apparel
+375,462,SKU-08-00462,Product_08_0462,1.5L,Urban Retail,Apparel
+376,480,SKU-08-00480,Product_08_0480,1kg,Urban Works,Apparel
+377,490,SKU-08-00490,Product_08_0490,1.5L,Urban Co,Apparel
+378,520,SKU-08-00520,Product_08_0520,12-Pack,Peak Labs,Apparel
+379,538,SKU-08-00538,Product_08_0538,Single Pack,Fresh Essentials,Apparel
+380,541,SKU-08-00541,Product_08_0541,500g,Ever Brands,Apparel
+381,557,SKU-08-00557,Product_08_0557,Family Pack,Blue Brands,Apparel
+382,599,SKU-08-00599,Product_08_0599,750g,True Labs,Apparel
+383,3,SKU-09-00003,Product_09_0003,1.5L,True Foods,Footwear
+384,46,SKU-09-00046,Product_09_0046,1kg,Urban Retail,Footwear
+385,56,SKU-09-00056,Product_09_0056,12-Pack,Bright Co,Footwear
+386,99,SKU-09-00099,Product_09_0099,Single Pack,Ever Retail,Footwear
+387,100,SKU-09-00100,Product_09_0100,1.5L,Ever Works,Footwear
+388,105,SKU-09-00105,Product_09_0105,1kg,True Labs,Footwear
+389,107,SKU-09-00107,Product_09_0107,250g,Urban Co,Footwear
+390,123,SKU-09-00123,Product_09_0123,500g,Fresh Essentials,Footwear
+391,162,SKU-09-00162,Product_09_0162,12-Pack,Bright Co,Footwear
+392,174,SKU-09-00174,Product_09_0174,1kg,Urban Works,Footwear
+393,186,SKU-09-00186,Product_09_0186,Single Pack,Pure Co,Footwear
+394,205,SKU-09-00205,Product_09_0205,500g,Blue Brands,Footwear
+395,211,SKU-09-00211,Product_09_0211,12-Pack,Nova Brands,Footwear
+396,243,SKU-09-00243,Product_09_0243,1.5L,Urban Co,Footwear
+397,278,SKU-09-00278,Product_09_0278,12-Pack,Ever Retail,Footwear
+398,286,SKU-09-00286,Product_09_0286,500g,Blue Brands,Footwear
+399,309,SKU-09-00309,Product_09_0309,1kg,Bright Brands,Footwear
+400,332,SKU-09-00332,Product_09_0332,1.5L,Apex Retail,Footwear
+401,352,SKU-09-00352,Product_09_0352,500g,Bright Brands,Footwear
+402,354,SKU-09-00354,Product_09_0354,1kg,Urban Retail,Footwear
+403,369,SKU-09-00369,Product_09_0369,12-Pack,Bright Co,Footwear
+404,377,SKU-09-00377,Product_09_0377,Family Pack,Blue Brands,Footwear
+405,379,SKU-09-00379,Product_09_0379,Single Pack,Bright Group,Footwear
+406,380,SKU-09-00380,Product_09_0380,1.5L,Ever Retail,Footwear
+407,399,SKU-09-00399,Product_09_0399,500g,Bright Group,Footwear
+408,417,SKU-09-00417,Product_09_0417,Family Pack,Bright Brands,Footwear
+409,423,SKU-09-00423,Product_09_0423,750g,Peak Essentials,Footwear
+410,431,SKU-09-00431,Product_09_0431,Family Pack,Bright Co,Footwear
+411,489,SKU-09-00489,Product_09_0489,Single Pack,Bright Co,Footwear
+412,493,SKU-09-00493,Product_09_0493,1kg,Fresh Essentials,Footwear
+413,496,SKU-09-00496,Product_09_0496,12-Pack,Apex Works,Footwear
+414,501,SKU-09-00501,Product_09_0501,2L,Bright Brands,Footwear
+415,502,SKU-09-00502,Product_09_0502,500g,True Foods,Footwear
+416,513,SKU-09-00513,Product_09_0513,750g,True Labs,Footwear
+417,526,SKU-09-00526,Product_09_0526,750g,Ever Brands,Footwear
+418,549,SKU-09-00549,Product_09_0549,500g,Peak Labs,Footwear
+419,552,SKU-09-00552,Product_09_0552,250g,Urban Group,Footwear
+420,564,SKU-09-00564,Product_09_0564,12-Pack,Urban Co,Footwear
+421,565,SKU-09-00565,Product_09_0565,Single Pack,Peak Labs,Footwear
+422,576,SKU-09-00576,Product_09_0576,2L,Ever Brands,Footwear
+423,577,SKU-09-00577,Product_09_0577,1.5L,Bright Co,Footwear
+424,585,SKU-09-00585,Product_09_0585,12-Pack,Blue Brands,Footwear
+425,596,SKU-09-00596,Product_09_0596,Single Pack,Apex Essentials,Footwear
+426,597,SKU-09-00597,Product_09_0597,Family Pack,Pure Co,Footwear
+427,19,SKU-10-00019,Product_10_0019,1kg,Ever Brands,Sports
+428,24,SKU-10-00024,Product_10_0024,750g,Apex Works,Sports
+429,32,SKU-10-00032,Product_10_0032,Family Pack,Pure Group,Sports
+430,37,SKU-10-00037,Product_10_0037,Family Pack,Bright Group,Sports
+431,38,SKU-10-00038,Product_10_0038,12-Pack,Peak Labs,Sports
+432,73,SKU-10-00073,Product_10_0073,1.5L,Bright Co,Sports
+433,81,SKU-10-00081,Product_10_0081,250g,Apex Works,Sports
+434,108,SKU-10-00108,Product_10_0108,1kg,Pure Group,Sports
+435,120,SKU-10-00120,Product_10_0120,1.5L,True Labs,Sports
+436,153,SKU-10-00153,Product_10_0153,250g,Ever Retail,Sports
+437,171,SKU-10-00171,Product_10_0171,500g,Peak Essentials,Sports
+438,185,SKU-10-00185,Product_10_0185,750g,True Foods,Sports
+439,190,SKU-10-00190,Product_10_0190,Family Pack,Blue Brands,Sports
+440,192,SKU-10-00192,Product_10_0192,500g,Ever Brands,Sports
+441,201,SKU-10-00201,Product_10_0201,1kg,Apex Works,Sports
+442,219,SKU-10-00219,Product_10_0219,Family Pack,Apex Essentials,Sports
+443,220,SKU-10-00220,Product_10_0220,1.5L,Apex Group,Sports
+444,256,SKU-10-00256,Product_10_0256,12-Pack,Bright Brands,Sports
+445,261,SKU-10-00261,Product_10_0261,750g,Bright Co,Sports
+446,264,SKU-10-00264,Product_10_0264,1.5L,Pure Co,Sports
+447,273,SKU-10-00273,Product_10_0273,1.5L,Urban Co,Sports
+448,285,SKU-10-00285,Product_10_0285,Single Pack,Pure Group,Sports
+449,294,SKU-10-00294,Product_10_0294,12-Pack,Urban Works,Sports
+450,295,SKU-10-00295,Product_10_0295,250g,Urban Labs,Sports
+451,296,SKU-10-00296,Product_10_0296,250g,True Foods,Sports
+452,317,SKU-10-00317,Product_10_0317,Family Pack,Ever Retail,Sports
+453,323,SKU-10-00323,Product_10_0323,1kg,Urban Co,Sports
+454,336,SKU-10-00336,Product_10_0336,Family Pack,Pure Group,Sports
+455,340,SKU-10-00340,Product_10_0340,500g,Pure Group,Sports
+456,348,SKU-10-00348,Product_10_0348,750g,Ever Brands,Sports
+457,363,SKU-10-00363,Product_10_0363,250g,Blue Brands,Sports
+458,366,SKU-10-00366,Product_10_0366,12-Pack,True Foods,Sports
+459,413,SKU-10-00413,Product_10_0413,500g,True Labs,Sports
+460,414,SKU-10-00414,Product_10_0414,1kg,Bright Co,Sports
+461,421,SKU-10-00421,Product_10_0421,Single Pack,Blue Brands,Sports
+462,422,SKU-10-00422,Product_10_0422,1kg,Bright Brands,Sports
+463,455,SKU-10-00455,Product_10_0455,500g,Ever Brands,Sports
+464,458,SKU-10-00458,Product_10_0458,12-Pack,Apex Group,Sports
+465,470,SKU-10-00470,Product_10_0470,2L,Ever Brands,Sports
+466,481,SKU-10-00481,Product_10_0481,500g,True Foods,Sports
+467,498,SKU-10-00498,Product_10_0498,2L,True Labs,Sports
+468,499,SKU-10-00499,Product_10_0499,12-Pack,Urban Labs,Sports
+469,509,SKU-10-00509,Product_10_0509,750g,True Foods,Sports
+470,528,SKU-10-00528,Product_10_0528,2L,Blue Brands,Sports
+471,559,SKU-10-00559,Product_10_0559,1.5L,Apex Essentials,Sports
+472,572,SKU-10-00572,Product_10_0572,Family Pack,Blue Brands,Sports
+473,578,SKU-10-00578,Product_10_0578,500g,Apex Group,Sports
+474,579,SKU-10-00579,Product_10_0579,250g,Ever Brands,Sports
+475,2,SKU-11-00002,Product_11_0002,Single Pack,Bright Group,Automotive
+476,9,SKU-11-00009,Product_11_0009,Single Pack,Ever Brands,Automotive
+477,13,SKU-11-00013,Product_11_0013,250g,Ever Works,Automotive
+478,29,SKU-11-00029,Product_11_0029,12-Pack,Apex Essentials,Automotive
+479,48,SKU-11-00048,Product_11_0048,2L,Nova Brands,Automotive
+480,50,SKU-11-00050,Product_11_0050,Family Pack,Bright Co,Automotive
+481,72,SKU-11-00072,Product_11_0072,250g,Fresh Essentials,Automotive
+482,80,SKU-11-00080,Product_11_0080,Family Pack,Urban Labs,Automotive
+483,82,SKU-11-00082,Product_11_0082,2L,Ever Retail,Automotive
+484,85,SKU-11-00085,Product_11_0085,250g,Ever Retail,Automotive
+485,93,SKU-11-00093,Product_11_0093,2L,Ever Retail,Automotive
+486,94,SKU-11-00094,Product_11_0094,Family Pack,Apex Works,Automotive
+487,103,SKU-11-00103,Product_11_0103,Single Pack,Bright Co,Automotive
+488,106,SKU-11-00106,Product_11_0106,Family Pack,Urban Retail,Automotive
+489,109,SKU-11-00109,Product_11_0109,12-Pack,Bright Group,Automotive
+490,110,SKU-11-00110,Product_11_0110,1.5L,Blue Brands,Automotive
+491,124,SKU-11-00124,Product_11_0124,250g,True Foods,Automotive
+492,128,SKU-11-00128,Product_11_0128,1kg,Nova Brands,Automotive
+493,143,SKU-11-00143,Product_11_0143,Family Pack,Pure Co,Automotive
+494,152,SKU-11-00152,Product_11_0152,Single Pack,Peak Labs,Automotive
+495,160,SKU-11-00160,Product_11_0160,500g,Urban Retail,Automotive
+496,167,SKU-11-00167,Product_11_0167,12-Pack,True Foods,Automotive
+497,173,SKU-11-00173,Product_11_0173,1kg,Blue Brands,Automotive
+498,178,SKU-11-00178,Product_11_0178,500g,Bright Co,Automotive
+499,188,SKU-11-00188,Product_11_0188,Single Pack,Peak Labs,Automotive
+500,195,SKU-11-00195,Product_11_0195,12-Pack,Bright Brands,Automotive
+501,200,SKU-11-00200,Product_11_0200,250g,Apex Works,Automotive
+502,202,SKU-11-00202,Product_11_0202,Family Pack,Apex Group,Automotive
+503,214,SKU-11-00214,Product_11_0214,12-Pack,Bright Brands,Automotive
+504,215,SKU-11-00215,Product_11_0215,1kg,Bright Group,Automotive
+505,217,SKU-11-00217,Product_11_0217,500g,Nova Brands,Automotive
+506,230,SKU-11-00230,Product_11_0230,2L,Pure Group,Automotive
+507,236,SKU-11-00236,Product_11_0236,12-Pack,Blue Brands,Automotive
+508,245,SKU-11-00245,Product_11_0245,1.5L,Bright Co,Automotive
+509,249,SKU-11-00249,Product_11_0249,500g,Apex Retail,Automotive
+510,266,SKU-11-00266,Product_11_0266,500g,True Foods,Automotive
+511,280,SKU-11-00280,Product_11_0280,2L,Urban Retail,Automotive
+512,291,SKU-11-00291,Product_11_0291,750g,Apex Group,Automotive
+513,297,SKU-11-00297,Product_11_0297,2L,Bright Co,Automotive
+514,327,SKU-11-00327,Product_11_0327,750g,Bright Co,Automotive
+515,358,SKU-11-00358,Product_11_0358,12-Pack,Bright Co,Automotive
+516,382,SKU-11-00382,Product_11_0382,Single Pack,Apex Essentials,Automotive
+517,391,SKU-11-00391,Product_11_0391,1.5L,Pure Group,Automotive
+518,394,SKU-11-00394,Product_11_0394,12-Pack,Bright Group,Automotive
+519,403,SKU-11-00403,Product_11_0403,1kg,Urban Works,Automotive
+520,409,SKU-11-00409,Product_11_0409,1kg,Bright Brands,Automotive
+521,434,SKU-11-00434,Product_11_0434,1.5L,Pure Co,Automotive
+522,445,SKU-11-00445,Product_11_0445,250g,Apex Group,Automotive
+523,453,SKU-11-00453,Product_11_0453,250g,Nova Brands,Automotive
+524,457,SKU-11-00457,Product_11_0457,Single Pack,Fresh Essentials,Automotive
+525,465,SKU-11-00465,Product_11_0465,12-Pack,Bright Group,Automotive
+526,471,SKU-11-00471,Product_11_0471,500g,Ever Retail,Automotive
+527,476,SKU-11-00476,Product_11_0476,12-Pack,Pure Co,Automotive
+528,492,SKU-11-00492,Product_11_0492,250g,Ever Works,Automotive
+529,500,SKU-11-00500,Product_11_0500,500g,Urban Retail,Automotive
+530,543,SKU-11-00543,Product_11_0543,2L,Bright Co,Automotive
+531,546,SKU-11-00546,Product_11_0546,Family Pack,Nova Brands,Automotive
+532,560,SKU-11-00560,Product_11_0560,12-Pack,Blue Brands,Automotive
+533,588,SKU-11-00588,Product_11_0588,750g,True Foods,Automotive
+534,589,SKU-11-00589,Product_11_0589,12-Pack,Nova Brands,Automotive
+535,7,SKU-12-00007,Product_12_0007,750g,Nova Brands,Office
+536,14,SKU-12-00014,Product_12_0014,1kg,Ever Brands,Office
+537,43,SKU-12-00043,Product_12_0043,Single Pack,Apex Retail,Office
+538,49,SKU-12-00049,Product_12_0049,Single Pack,Bright Co,Office
+539,53,SKU-12-00053,Product_12_0053,250g,Blue Brands,Office
+540,54,SKU-12-00054,Product_12_0054,Family Pack,Ever Works,Office
+541,74,SKU-12-00074,Product_12_0074,750g,Bright Co,Office
+542,89,SKU-12-00089,Product_12_0089,Family Pack,Urban Retail,Office
+543,91,SKU-12-00091,Product_12_0091,2L,Urban Retail,Office
+544,92,SKU-12-00092,Product_12_0092,1.5L,Peak Essentials,Office
+545,95,SKU-12-00095,Product_12_0095,12-Pack,Bright Brands,Office
+546,111,SKU-12-00111,Product_12_0111,2L,Bright Group,Office
+547,114,SKU-12-00114,Product_12_0114,750g,Urban Labs,Office
+548,118,SKU-12-00118,Product_12_0118,Family Pack,Peak Labs,Office
+549,119,SKU-12-00119,Product_12_0119,750g,Urban Co,Office
+550,130,SKU-12-00130,Product_12_0130,500g,Ever Brands,Office
+551,138,SKU-12-00138,Product_12_0138,2L,Nova Brands,Office
+552,149,SKU-12-00149,Product_12_0149,Single Pack,Bright Co,Office
+553,158,SKU-12-00158,Product_12_0158,12-Pack,Ever Retail,Office
+554,168,SKU-12-00168,Product_12_0168,500g,Pure Co,Office
+555,184,SKU-12-00184,Product_12_0184,Family Pack,Blue Brands,Office
+556,197,SKU-12-00197,Product_12_0197,2L,Pure Group,Office
+557,204,SKU-12-00204,Product_12_0204,1kg,True Foods,Office
+558,213,SKU-12-00213,Product_12_0213,500g,Ever Works,Office
+559,218,SKU-12-00218,Product_12_0218,1kg,Urban Co,Office
+560,223,SKU-12-00223,Product_12_0223,500g,Apex Group,Office
+561,235,SKU-12-00235,Product_12_0235,500g,Nova Brands,Office
+562,248,SKU-12-00248,Product_12_0248,250g,Ever Works,Office
+563,262,SKU-12-00262,Product_12_0262,500g,Ever Retail,Office
+564,270,SKU-12-00270,Product_12_0270,Single Pack,Ever Brands,Office
+565,272,SKU-12-00272,Product_12_0272,12-Pack,Urban Retail,Office
+566,302,SKU-12-00302,Product_12_0302,750g,Ever Works,Office
+567,315,SKU-12-00315,Product_12_0315,250g,True Labs,Office
+568,319,SKU-12-00319,Product_12_0319,750g,Ever Retail,Office
+569,329,SKU-12-00329,Product_12_0329,250g,Pure Co,Office
+570,337,SKU-12-00337,Product_12_0337,500g,Urban Group,Office
+571,338,SKU-12-00338,Product_12_0338,Single Pack,Blue Brands,Office
+572,386,SKU-12-00386,Product_12_0386,Family Pack,Bright Co,Office
+573,388,SKU-12-00388,Product_12_0388,250g,True Labs,Office
+574,392,SKU-12-00392,Product_12_0392,750g,Nova Brands,Office
+575,393,SKU-12-00393,Product_12_0393,2L,Ever Works,Office
+576,398,SKU-12-00398,Product_12_0398,1.5L,Urban Group,Office
+577,400,SKU-12-00400,Product_12_0400,750g,Ever Retail,Office
+578,404,SKU-12-00404,Product_12_0404,Single Pack,Urban Co,Office
+579,408,SKU-12-00408,Product_12_0408,12-Pack,Bright Group,Office
+580,425,SKU-12-00425,Product_12_0425,250g,True Foods,Office
+581,435,SKU-12-00435,Product_12_0435,750g,True Labs,Office
+582,456,SKU-12-00456,Product_12_0456,1.5L,Pure Co,Office
+583,459,SKU-12-00459,Product_12_0459,2L,Bright Brands,Office
+584,469,SKU-12-00469,Product_12_0469,2L,True Foods,Office
+585,482,SKU-12-00482,Product_12_0482,12-Pack,Ever Brands,Office
+586,486,SKU-12-00486,Product_12_0486,750g,Urban Works,Office
+587,506,SKU-12-00506,Product_12_0506,250g,Apex Works,Office
+588,511,SKU-12-00511,Product_12_0511,1kg,True Foods,Office
+589,521,SKU-12-00521,Product_12_0521,250g,Apex Retail,Office
+590,522,SKU-12-00522,Product_12_0522,2L,Bright Group,Office
+591,530,SKU-12-00530,Product_12_0530,500g,Urban Retail,Office
+592,533,SKU-12-00533,Product_12_0533,12-Pack,Ever Brands,Office
+593,535,SKU-12-00535,Product_12_0535,Single Pack,Apex Retail,Office
+594,548,SKU-12-00548,Product_12_0548,1.5L,True Foods,Office
+595,551,SKU-12-00551,Product_12_0551,250g,Urban Retail,Office
+596,566,SKU-12-00566,Product_12_0566,1kg,Bright Co,Office
+597,570,SKU-12-00570,Product_12_0570,1kg,Urban Works,Office
+598,575,SKU-12-00575,Product_12_0575,1.5L,Ever Brands,Office
+599,582,SKU-12-00582,Product_12_0582,Family Pack,Bright Group,Office
+600,598,SKU-12-00598,Product_12_0598,2L,Blue Brands,Office
